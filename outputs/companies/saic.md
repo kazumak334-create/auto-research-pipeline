@@ -1,64 +1,50 @@
-# SAIC 自動車産業関連アップデート
+# SAIC — IVI Agentic AI 実装ファクトブック
 
-## 1. 企業概要
+**Tier：** T3
+**分類：** P3-T（DeepSeek + Qwen + Horizon・移行中）
+**最終更新：** 2026-04-28
+**最終確認：** 2026-04-28 ／ 2026 H1 新型 matrix 投入：IM LS9 Hyper / IM LS8 / SAIC Audi E7X。**Q1 2026 SAIC Audi 端末販売 10,000台超 +28% YoY**。**Audi-SAIC 戦略合作 拡大（2026.4.17 調印）**：Shanghai に Audi Innovation Technology Center 設立、ICV / 知能電動 全車開発フォーカス。Audi E7X（初 SUV）2026 北京モーターショーでdebut、3rd model 2027
+**ソース：** 04a_market-raw_v2.md（依頼書 v3 準拠）+ ChinaEVHome + SAIC 公式
 
-| 項目 | 内容 |
-|---|---|
-| 企業名 | SAIC Motor Corporation Limited（上汽集団） |
-| 本社 | 上海、中国 |
-| カテゴリ | 中国OEM / 国有企業 |
-| 主要ブランド | SAIC、MG、IM Motors（智己）、Rising Auto（飛凡） |
+---
 
-## 2. 自動車産業への関与領域
+## 1. エグゼクティブサマリ
 
-| 領域 | 内容 | 確度 | 根拠 |
-|---|---|---:|---|
-| InCar | 独自コックピットシステム（IM Motorsなど） | 高 | 公式発表 |
-| OutCar | スマートフォン連携（詳細不明） | 中 | 推定 |
-| Cloud / Data | 詳細不明 | 低 | — |
-| ADAS / 自動運転 | 自社ADAS・Mobileye採用（一部モデル） | 中 | 業界メディア |
-| Cockpit / Infotainment | IM Motors独自UI | 高 | 公式発表 |
-| Sales / CRM / 顧客接点 | 国内ディーラー網＋海外（MG経由） | 高 | 公式発表 |
-| After-sales / OTA | OTA対応（詳細不明） | 中 | 推定 |
+| 項目 | 値 |
+|-----|---|
+| 旗艦モデル | SAIC-GM JV（DeepSeek R1初統合）/ IM Motors（自社EV）[一次] |
+| 量産時期 | DeepSeek 2025〜、Qwen 2026 [一次] |
+| 対象国 | 中国 + 海外 [一次] |
+| AI Agent搭載総台数 | 多 JV / IM Motors 全車 [推論] |
+| FM Level | A（DeepSeek + Qwen API利用）|
+| 主要採用FM | DeepSeek + Qwen（2026.4 北京）[一次] |
+| 採用Orchestrator | IM Motors 自前 + JV 各社 [一次] |
 
-## 3. OEM侵食リスク評価
+---
 
-| 論点 | 評価 | 理由 | 根拠 | 確度 |
-|---|---|---|---|---|
-| 顧客接点を取るか | 自社OEMのため対象外 | SAIC自身がOEM | — | — |
-| 車両データを取るか | 自社利用 | 国有企業のため政府へのデータ提供が義務化される可能性 | 推定 | 中 |
-| 差別化領域を外部依存させるか | 中リスク | ADAS等でサードパーティ依存が高い | 業界メディア | 中 |
-| OEM独自領域まで侵攻するか | 対象外 | — | — | — |
+## 3. アーキテクチャ：どう作るか
 
-## 4. ASEAN・海外展開
+- パターン分類：P3-T、Multi-Agent 空欄
+- FM Level：A（外部API、多FM 並走）
+- 採用チップ：Horizon Journey 6（中国製）[一次]
+- SAIC-GM JV は DeepSeek R1 初統合（2025.2 一斉統合 10社の一角）[一次]
 
-| 地域 | 内容 | 根拠 | 確度 |
-|---|---|---|---|
-| Thailand | MG販売・生産 | 公式発表 | 高 |
-| Indonesia | MG販売 | 公式発表 | 高 |
-| Malaysia | MG販売 | 業界メディア | 中 |
-| Singapore | 不明 | — | 不明 |
-| Japan | 不明 | — | 不明 |
-| Europe | MG経由欧州展開 | 公式発表 | 高 |
-| United States | 対米関税により困難 | 公式規制情報 | 高 |
+---
 
-## 5. トヨタ・既存OEMへの示唆
+## 6. Honda 示唆（So What）
 
-- MGブランドのASEAN展開はトヨタの主力市場と直接競合。価格優位と現地生産が脅威。
-- 国有企業としてのデータ規制リスクは、ASEAN顧客向けの信頼性に影響する可能性。
+SAIC は中国合弁の代表（GM/VW）+ IM Motors 自社EV の二段構造。Honda の中国合弁（広汽/東風）との競合関係で、SAIC が DeepSeek + Qwen で自社路線を強化する動きは Honda 合弁戦略の脅威。Qwen 採用は Alibaba エコシステム連結（コマース・地図）への扉。**Audi-SAIC 戦略合作 拡大（2026.4.17）= Shanghai Audi Innovation Center 設立で Audi が中国EV 開発を SAIC に大幅依存** = Honda が中国合弁の知能電動 R&D を本田技研本体から SAIC型現地依存型に切替えるか否かの分岐参照。
 
-## 6. 直近アップデート
+## 7. 2026 Q1-Q2 追加ファクト
 
-<!-- Claude Code が新規情報を追記する際はこのセクションに追記すること -->
+- 2026 H1 新型 matrix：IM LS9 Hyper / IM LS8 / SAIC Audi E7X 投入計画 [二次]
+- **Q1 2026 SAIC Audi 端末販売 10,000台超 +28% YoY** [二次]
+- **2026.4.17 Audi-SAIC 戦略合作 新ラウンド調印**：Shanghai に Audi Innovation Technology Center 設立、smart electrification + ICV 全車開発フォーカス [二次]
+- Audi E7X（初 SUV）が 2026 北京モーターショー debut、3rd model は 2027 launch 予定 [二次]
+- IM Motors（SAIC + Alibaba + Zhangjiang Hi-Tech のJV）：global strategy で 2024年から多市場進出、2025-2026 拡大継続 [二次]
 
-## 7. 未確認・要追加調査
+## 出典（2026 Q1追加）
 
-- IM Motors・Rising Auto の実態（販売状況・財務）
-- ASEAN各国でのMG生産・販売台数
-- 中国政府のSAICへのデータ要求状況
-
-## 8. 更新ログ
-
-| 日付 | 更新内容 | 更新者 |
-|---|---|---|
-| 2026-05-07 | 初期テンプレート作成 | system |
+- [SAIC 公式 — SAIC Motor's Jan-Feb sales](https://www.saicmotor.com/english/latest_news/saic_motor/63921.shtml) [一次]
+- [ChinaEVHome — Audi, SAIC Set Up Innovation Center in China](https://chinaevhome.com/2026/04/17/audi-saic-set-up-innovation-center-in-china-to-develop-next-gen-audi-models/) [二次]
+- [Automotive World — Audi and SAIC deepen ties with four new models](https://www.automotiveworld.com/news/audi-and-saic-deepen-ties-with-four-new-models-rd-hub/) [二次]

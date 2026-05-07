@@ -234,3 +234,347 @@ companies:
       - cloud
       - data
       - asean
+
+  - id: tesla
+    name: Tesla
+    aliases:
+      - Tesla
+      - テスラ
+      - TESLA
+      - FSD
+      - Cybertruck
+      - Grok
+    categories:
+      - us_tech
+      - ev_pioneer
+    focus_domains:
+      - oem
+      - adas
+      - autonomous_driving
+      - software
+      - data
+      - cockpit
+
+  - id: mercedes
+    name: Mercedes-Benz
+    aliases:
+      - Mercedes
+      - Mercedes-Benz
+      - CLA
+      - MMA
+      - Liquid AI
+    categories:
+      - german_oem
+    focus_domains:
+      - oem
+      - cockpit
+      - adas
+      - software
+      - multi_agent
+
+  - id: stellantis
+    name: Stellantis
+    aliases:
+      - Stellantis
+      - Peugeot
+      - Jeep
+      - Dodge
+      - Fiat
+      - STLA
+      - Leapmotor
+    categories:
+      - western_oem
+    focus_domains:
+      - oem
+      - cockpit
+      - software
+
+  - id: li_auto
+    name: Li Auto
+    aliases:
+      - Li Auto
+      - 理想汽車
+      - 理想
+      - LIXIANG
+      - MindGPT
+      - Tongxue
+    categories:
+      - chinese_oem
+      - ev_new_entrant
+    focus_domains:
+      - oem
+      - cockpit
+      - adas
+      - ai_agent
+      - software
+
+  - id: honda
+    name: Honda
+    aliases:
+      - Honda
+      - ホンダ
+      - HONDA
+      - 0 SUV
+      - ASIMO OS
+      - Helm.ai
+    categories:
+      - japanese_oem
+      - benchmark
+    focus_domains:
+      - oem
+      - sdv
+      - cockpit
+      - adas
+      - software
+
+  - id: gm
+    name: GM
+    aliases:
+      - GM
+      - General Motors
+      - Cadillac
+      - Chevrolet
+      - Ultifi
+      - Gemini
+    categories:
+      - us_oem
+    focus_domains:
+      - oem
+      - cockpit
+      - software
+      - adas
+
+  - id: hyundai
+    name: Hyundai
+    aliases:
+      - Hyundai
+      - 現代
+      - Kia
+      - Gleo AI
+      - Pleos
+    categories:
+      - korean_oem
+    focus_domains:
+      - oem
+      - cockpit
+      - adas
+      - software
+
+  - id: bmw
+    name: BMW
+    aliases:
+      - BMW
+      - iX3
+      - Neue Klasse
+      - Alexa+
+    categories:
+      - german_oem
+    focus_domains:
+      - oem
+      - cockpit
+      - software
+      - adas
+
+  - id: vw
+    name: Volkswagen
+    aliases:
+      - VW
+      - Volkswagen
+      - ID.
+      - CARIAD
+      - Audi
+      - Porsche
+    categories:
+      - german_oem
+    focus_domains:
+      - oem
+      - software
+      - cockpit
+      - adas
+
+  - id: renault
+    name: Renault
+    aliases:
+      - Renault
+      - ルノー
+      - Renault 5
+      - Cerence
+    categories:
+      - european_oem
+    focus_domains:
+      - oem
+      - cockpit
+      - software
+
+  - id: ford
+    name: Ford
+    aliases:
+      - Ford
+      - フォード
+      - F-Series
+      - BlueCruise
+    categories:
+      - us_oem
+    focus_domains:
+      - oem
+      - adas
+      - cockpit
+      - software
+
+  - id: nissan
+    name: Nissan
+    aliases:
+      - Nissan
+      - 日産
+      - ProPILOT
+      - Wayve
+      - Infiniti
+    categories:
+      - japanese_oem
+    focus_domains:
+      - oem
+      - adas
+      - autonomous_driving
+      - cockpit
+
+  - id: nio
+    name: NIO
+    aliases:
+      - NIO
+      - 蔚来
+      - NIO OS
+      - Onvo
+      - Firefly
+      - NOMI
+      - NWM
+    categories:
+      - chinese_oem
+      - ev_new_entrant
+    focus_domains:
+      - oem
+      - cockpit
+      - adas
+      - battery_swap
+      - software
+      - data
+
+  - id: xpeng
+    name: XPeng
+    aliases:
+      - XPeng
+      - 小鹏
+      - XGPT
+      - XNGP
+      - XPILOT
+      - AeroHT
+    categories:
+      - chinese_oem
+      - ev_new_entrant
+    focus_domains:
+      - oem
+      - adas
+      - autonomous_driving
+      - cockpit
+      - software
+
+  - id: zeekr
+    name: Zeekr
+    aliases:
+      - Zeekr
+      - 极氪
+      - ZEEKR
+      - Thor NVIDIA
+    categories:
+      - chinese_oem
+      - geely_group
+    focus_domains:
+      - oem
+      - adas
+      - cockpit
+      - software
+
+  - id: aito
+    name: AITO
+    aliases:
+      - AITO
+      - 问界
+      - AITO M9
+      - Huawei HIMA
+      - SERES
+    categories:
+      - chinese_oem
+      - huawei_partner
+    focus_domains:
+      - cockpit
+      - adas
+      - oem
+      - incar
+
+  - id: onvo
+    name: Onvo
+    aliases:
+      - Onvo
+      - 乐道
+      - L90
+      - NIO sub-brand
+    categories:
+      - chinese_oem
+      - nio_group
+    focus_domains:
+      - oem
+      - cockpit
+      - adas
+      - battery_swap
+
+  - id: leapmotor
+    name: Leapmotor
+    aliases:
+      - Leapmotor
+      - 零跑
+      - C16
+      - B10
+      - Stellantis
+    categories:
+      - chinese_oem
+    focus_domains:
+      - oem
+      - cockpit
+      - global_expansion
+      - asean
+
+  - id: dongfeng
+    name: Dongfeng
+    aliases:
+      - Dongfeng
+      - 东风
+      - Voyah
+      - eπ
+      - Forthing
+      - Nammi
+    categories:
+      - chinese_oem
+      - state_owned
+    focus_domains:
+      - oem
+      - cockpit
+      - adas
+      - software
+
+  - id: changan
+    name: Changan
+    aliases:
+      - Changan
+      - 长安
+      - Avatr
+      - Deepal
+      - Qiyuan
+      - 深蓝
+    categories:
+      - chinese_oem
+      - state_owned
+    focus_domains:
+      - oem
+      - adas
+      - cockpit
+      - software
+      - asean
