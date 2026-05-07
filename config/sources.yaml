@@ -1,0 +1,59 @@
+source_groups:
+  official_company:
+    priority: 1
+    description: 企業公式ニュース・IR・プレスリリース
+    sources:
+      - company_id: huawei
+        urls:
+          - https://www.huawei.com/en/news
+          - https://www.huawei.com/en/media-center
+      - company_id: toyota
+        urls:
+          - https://global.toyota/en/newsroom/
+      - company_id: byd
+        urls:
+          - https://www.bydglobal.com/en/news
+      - company_id: xiaomi
+        urls:
+          - https://www.mi.com/global/discover/newsroom
+      - company_id: geely
+        urls:
+          - https://global.geely.com/media-center/news/
+      - company_id: baidu
+        urls:
+          - https://ir.baidu.com/news-releases
+      - company_id: alibaba
+        urls:
+          - https://www.alibabagroup.com/en-US/ir-news
+      - company_id: tencent
+        urls:
+          - https://www.tencent.com/en-us/articles.html
+      - company_id: bytedance
+        urls:
+          - https://www.bytedance.com/en/newsroom
+
+  government_regulator:
+    priority: 1
+    description: 政府・規制当局・投資促進機関
+    sources:
+      - region: china
+        urls:
+          - https://www.miit.gov.cn/
+      - region: thailand
+        urls:
+          - https://www.boi.go.th/
+      - region: indonesia
+        urls:
+          - https://www.bkpm.go.id/
+      - region: malaysia
+        urls:
+          - https://www.miti.gov.my/
+
+  industry_media:
+    priority: 2
+    description: 業界メディア。発見用であり、最終ファクトは一次情報で確認する
+    sources:
+      - https://cnevpost.com/
+      - https://www.marklines.com/
+      - https://www.autonews.com/
+      - https://carnewschina.com/

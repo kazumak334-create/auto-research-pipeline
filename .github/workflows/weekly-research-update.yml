@@ -1,0 +1,74 @@
+name: Weekly Research Update
+
+on:
+  schedule:
+    - cron: "0 22 * * 0"  # 毎週月曜 07:00 JST (UTC 22:00 日曜)
+  workflow_dispatch:
+
+jobs:
+  update-research:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Fetch sources
+        run: |
+          python scripts/fetch_sources.py
+
+      - name: Normalize sources
+        run: |
+          python scripts/normalize_sources.py
+
+      - name: Detect diff
+        run: |
+          python scripts/detect_diff.py
+
+      - name: Install Claude Code CLI
+        run: |
+          npm install -g @anthropic-ai/claude-code
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Run Claude company update
+        run: |
+          bash scripts/run_claude_company_update.sh
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Run Claude theme update
+        run: |
+          bash scripts/run_claude_theme_update.sh
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Weekly research update: ${{ github.run_id }}"
+          title: "Weekly company research update"
+          body: |
+            ## 更新概要
+
+            中国OEM・Tier1・BigTech・関連プレイヤーの週次リサーチノートを更新しました。
+
+            ## レビュー観点
+
+            - 出典URLは妥当か
+            - 公式情報と二次情報が混ざっていないか
+            - 推測が事実として書かれていないか
+            - 中国市場の情報をASEAN・日本へ過度に一般化していないか
+            - 既存仮説の更新理由が明確か
+          branch: "weekly-research-update"
+          base: "main"

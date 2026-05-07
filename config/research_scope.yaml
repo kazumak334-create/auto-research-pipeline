@@ -1,0 +1,67 @@
+research_scope:
+  primary_question:
+    - 中国OEM・Tier1・BigTechが自動車産業にどのように進出しているか
+    - OEM独自の領域まで侵攻しうるプレイヤーは誰か
+    - OEMにとって何ができなくなる、または外部依存化するのか
+    - トヨタなど既存OEMにどのような示唆があるか
+
+  strategic_risk_axes:
+    - id: customer_touchpoint
+      name: 顧客接点を取られる
+      description: 車内UI、スマホ連携、アプリ、購買接点、コンテンツ、広告、OTA接点を外部プレイヤーに握られるリスク
+
+    - id: vehicle_data
+      name: 車両データを取られる
+      description: 走行データ、運転データ、車両状態データ、位置情報、利用ログ、OTAデータを外部プレイヤーが取得・活用するリスク
+
+    - id: differentiation_dependency
+      name: 差別化領域を外部依存する
+      description: UX、コックピット、ADAS、クラウド、AI、OS、アプリ基盤などの差別化領域を外部企業に依存するリスク
+
+    - id: oem_domain_invasion
+      name: OEM独自領域まで侵攻する
+      description: 車両企画、ブランド、販売、顧客関係、継続課金、ソフトウェア更新、E/Eアーキテクチャに外部プレイヤーが侵食するリスク
+
+  domains:
+    - InCar
+    - OutCar
+    - 周辺IT
+    - Cloud
+    - Data
+    - ADAS
+    - Cockpit
+    - Infotainment
+    - Map
+    - Charging
+    - Sales / CRM
+    - After-sales
+
+  layers:
+    - HW
+    - OS
+    - Middleware
+    - Application
+    - Cloud
+    - Data
+    - AI Model
+    - Ecosystem
+    - Customer Interface
+
+  target_regions:
+    - China
+    - Thailand
+    - Indonesia
+    - Malaysia
+    - Singapore
+    - Japan
+    - Europe
+    - United States
+
+  output_principles:
+    - 事実・仮説・評価を分離する
+    - 一次情報を優先する
+    - 二次情報のみの場合は確度を下げる
+    - 中国市場とASEAN市場を混同しない
+    - 採用という言葉を分解する
+    - 不明なものは不明と書く
+    - ハルシネーション禁止

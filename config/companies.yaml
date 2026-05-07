@@ -1,0 +1,236 @@
+companies:
+  - id: huawei
+    name: Huawei
+    aliases:
+      - Huawei
+      - HUAWEI
+      - 华为
+      - 華為
+      - HarmonyOS
+      - HarmonyOS Intelligent Mobility Alliance
+      - HIMA
+      - Qiankun
+      - ADS
+      - AITO
+      - Luxeed
+      - Stelato
+      - Maextro
+    categories:
+      - chinese_tech
+      - tier1_like
+      - cloud
+      - telecom
+      - automotive_solution_provider
+    focus_domains:
+      - incar
+      - outcar
+      - cockpit
+      - adas
+      - cloud
+      - data
+      - communication_infrastructure
+
+  - id: xiaomi
+    name: Xiaomi
+    aliases:
+      - Xiaomi
+      - 小米
+      - 小米汽车
+      - Xiaomi Auto
+      - HyperOS
+      - SU7
+      - YU7
+    categories:
+      - chinese_tech
+      - chinese_oem
+      - smartphone_ecosystem
+    focus_domains:
+      - oem
+      - customer_touchpoint
+      - cockpit
+      - smartphone_ecosystem
+      - connected_services
+
+  - id: byd
+    name: BYD
+    aliases:
+      - BYD
+      - 比亚迪
+      - DiLink
+      - DiPilot
+      - Yangwang
+      - Denza
+      - Fangchengbao
+    categories:
+      - chinese_oem
+      - battery
+      - vertical_integration
+    focus_domains:
+      - oem
+      - battery
+      - cockpit
+      - adas
+      - vehicle_data
+      - vertical_integration
+
+  - id: geely
+    name: Geely
+    aliases:
+      - Geely
+      - 吉利
+      - Zeekr
+      - Lynk & Co
+      - Galaxy
+      - Lotus
+      - Polestar
+      - Flyme Auto
+      - Meizu
+    categories:
+      - chinese_oem
+      - mobility_group
+    focus_domains:
+      - oem
+      - cockpit
+      - software
+      - smartphone_ecosystem
+      - global_expansion
+
+  - id: saic
+    name: SAIC
+    aliases:
+      - SAIC
+      - 上汽
+      - MG
+      - IM Motors
+      - Rising Auto
+      - SAIC Motor
+    categories:
+      - chinese_oem
+      - state_owned
+    focus_domains:
+      - oem
+      - global_expansion
+      - cockpit
+      - adas
+      - asean
+
+  - id: chery
+    name: Chery
+    aliases:
+      - Chery
+      - 奇瑞
+      - Omoda
+      - Jaecoo
+      - Exeed
+      - Jetour
+    categories:
+      - chinese_oem
+    focus_domains:
+      - oem
+      - global_expansion
+      - asean
+      - cockpit
+      - adas
+
+  - id: baidu
+    name: Baidu
+    aliases:
+      - Baidu
+      - 百度
+      - Apollo
+      - Apollo Go
+      - Jidu
+      - Ji Yue
+    categories:
+      - chinese_tech
+      - autonomous_driving
+      - ai
+    focus_domains:
+      - adas
+      - autonomous_driving
+      - cloud
+      - map
+      - data
+      - robotaxi
+
+  - id: tencent
+    name: Tencent
+    aliases:
+      - Tencent
+      - 腾讯
+      - WeChat
+      - Tencent Cloud
+      - Tencent Auto Intelligence
+    categories:
+      - chinese_tech
+      - cloud
+      - customer_touchpoint
+    focus_domains:
+      - cloud
+      - data
+      - cockpit
+      - customer_touchpoint
+      - connected_services
+
+  - id: alibaba
+    name: Alibaba
+    aliases:
+      - Alibaba
+      - 阿里巴巴
+      - Aliyun
+      - Alibaba Cloud
+      - Banma
+      - AliOS
+    categories:
+      - chinese_tech
+      - cloud
+      - operating_system
+    focus_domains:
+      - cloud
+      - cockpit
+      - operating_system
+      - data
+      - connected_services
+
+  - id: bytedance
+    name: ByteDance
+    aliases:
+      - ByteDance
+      - 字节跳动
+      - Douyin
+      - TikTok
+      - Volcano Engine
+      - 懂车帝
+      - Dongchedi
+    categories:
+      - chinese_tech
+      - content_platform
+      - customer_touchpoint
+      - cloud
+    focus_domains:
+      - customer_touchpoint
+      - media
+      - advertising
+      - cloud
+      - vehicle_purchase_funnel
+      - infotainment
+
+  - id: toyota
+    name: Toyota
+    aliases:
+      - Toyota
+      - トヨタ
+      - TOYOTA
+      - Woven
+      - Woven by Toyota
+      - Arene
+    categories:
+      - japanese_oem
+      - benchmark
+    focus_domains:
+      - oem
+      - sdv
+      - operating_system
+      - cloud
+      - data
+      - asean
