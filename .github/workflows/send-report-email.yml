@@ -1,0 +1,46 @@
+name: Send Daily Research Newsletter
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'outputs/reports/**.md'
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Get latest report
+        id: report
+        run: |
+          LATEST=$(ls outputs/reports/*.md 2>/dev/null | sort | tail -1)
+          if [ -z "$LATEST" ]; then
+            echo "No report found, skipping."
+            exit 0
+          fi
+          echo "file=$LATEST" >> $GITHUB_OUTPUT
+          DATE=$(basename "$LATEST" .md)
+          echo "date=$DATE" >> $GITHUB_OUTPUT
+          # Convert markdown to plain text (remove markdown syntax)
+          CONTENT=$(cat "$LATEST" | sed 's/^#\+ /\n/g' | sed 's/\*\*//g' | sed 's/\*//g' | sed 's/^| /  /g')
+          echo "content<<BODYEOF" >> $GITHUB_OUTPUT
+          echo "$CONTENT" >> $GITHUB_OUTPUT
+          echo "BODYEOF" >> $GITHUB_OUTPUT
+
+      - name: Send email
+        if: steps.report.outputs.file != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          secure: false
+          username: acn.kazuma.kato@gmail.com
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+          subject: "【自動車リサーチ】Daily Newsletter ${{ steps.report.outputs.date }}"
+          to: kazuma.kato@accenture.com
+          from: "Auto Research Agent <acn.kazuma.kato@gmail.com>"
+          body: ${{ steps.report.outputs.content }}
