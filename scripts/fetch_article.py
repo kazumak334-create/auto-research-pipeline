@@ -31,7 +31,7 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9",
 }
 
-MAX_CHARS = 3000  # 本文の最大文字数（コンテキスト節約）
+MAX_CHARS = 8000  # 本文の最大文字数（ほぼ全文カバー。英語1500語≒6000字）
 TIMEOUT = 15
 
 
