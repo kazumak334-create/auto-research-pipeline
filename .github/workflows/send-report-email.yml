@@ -11,25 +11,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 2
 
-      - name: Get latest report
+      - name: Find latest report
         id: report
         run: |
-          LATEST=$(ls outputs/reports/*.md 2>/dev/null | sort | tail -1)
+          LATEST=$(ls outputs/reports/*.md 2>/dev/null | grep -v '.gitkeep' | sort | tail -1)
           if [ -z "$LATEST" ]; then
             echo "No report found, skipping."
+            echo "file=" >> $GITHUB_OUTPUT
             exit 0
           fi
-          echo "file=$LATEST" >> $GITHUB_OUTPUT
           DATE=$(basename "$LATEST" .md)
+          echo "file=$LATEST" >> $GITHUB_OUTPUT
           echo "date=$DATE" >> $GITHUB_OUTPUT
-          # Convert markdown to plain text (remove markdown syntax)
-          CONTENT=$(cat "$LATEST" | sed 's/^#\+ /\n/g' | sed 's/\*\*//g' | sed 's/\*//g' | sed 's/^| /  /g')
-          echo "content<<BODYEOF" >> $GITHUB_OUTPUT
-          echo "$CONTENT" >> $GITHUB_OUTPUT
-          echo "BODYEOF" >> $GITHUB_OUTPUT
 
       - name: Send email
         if: steps.report.outputs.file != ''
@@ -43,4 +37,5 @@ jobs:
           subject: "【自動車リサーチ】Daily Newsletter ${{ steps.report.outputs.date }}"
           to: kazuma.kato@accenture.com
           from: "Auto Research Agent <acn.kazuma.kato@gmail.com>"
-          body: ${{ steps.report.outputs.content }}
+          convert_markdown: true
+          body: file://${{ steps.report.outputs.file }}
