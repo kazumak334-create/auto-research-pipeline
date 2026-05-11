@@ -48,3 +48,7 @@ SAIC は中国合弁の代表（GM/VW）+ IM Motors 自社EV の二段構造。H
 - [SAIC 公式 — SAIC Motor's Jan-Feb sales](https://www.saicmotor.com/english/latest_news/saic_motor/63921.shtml) [一次]
 - [ChinaEVHome — Audi, SAIC Set Up Innovation Center in China](https://chinaevhome.com/2026/04/17/audi-saic-set-up-innovation-center-in-china-to-develop-next-gen-audi-models/) [二次]
 - [Automotive World — Audi and SAIC deepen ties with four new models](https://www.automotiveworld.com/news/audi-and-saic-deepen-ties-with-four-new-models-rd-hub/) [二次]
+
+
+## 直近アップデート
+- 2026-05-11: IM Motors LS8 EREV SUV発売、36,600ドルから、EV航続430km。 ([出典](https://carnewschina.com/2026/04/17/im-motors-launches-ls8-erev-suv-starting-from-36600-usd-430-km-ev-range-and-four-wheel-steer-by-wire/))
