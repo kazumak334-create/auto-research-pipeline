@@ -49,3 +49,7 @@ Chery は中国輸出首位 1.34M 台で、中国OEM の海外展開リーダー
 - [Gasgoo — Chery Group March 2026 sales](https://autonews.gasgoo.com/articles/market-industry/chery-group-scores-121-yoy-growth-in-march-2026-sales-2039587112943267841) [二次]
 - [Yahoo Finance — Chery planning Hong Kong IPO](https://finance.yahoo.com/news/chery-planning-hong-kong-ipo-101943887.html) [二次]
 - [Chery International — Global Expansion Accelerates](https://www.cheryinternational.com/pc/news/news1/20260420/detail-2576.shtml) [一次]
+
+
+## 直近アップデート
+- 2026-05-11: 2026年中頃ベトナムに最大ASEANモデル工場開設予定。 ([出典](https://kr-asia.com/chinas-chery-to-open-its-largest-asean-car-factory-in-vietnam-in-mid-2026))
