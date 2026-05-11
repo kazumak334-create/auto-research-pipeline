@@ -48,6 +48,7 @@ OPEC production cut oil price {YYYY-MM}
 
 ### 最新動向（更新欄）
 <!-- auto-agent が毎日追記 -->
+- 2026-05-11: リチウム炭酸リチウム中国価格CNY194,000/T（+50% YTD）。LFP電池パック$81/kWh、NMC $128/kWh。
 
 ---
 
@@ -80,6 +81,7 @@ battery materials supply demand balance {YYYY-MM}
 
 ### 最新動向（更新欄）
 <!-- auto-agent が毎日追記 -->
+- 2026-05-11: 中国、ガリウム・ゲルマニウム・希土類輸出規制を2025年11月〜2026年11月まで一時停止中。期限後の政策は未確定。
 
 ---
 
@@ -102,6 +104,7 @@ energy poverty developing countries fossil fuel transition {YYYY-MM}
 
 ### 最新動向（更新欄）
 <!-- auto-agent が毎日追記 -->
+- 2026-05-11: 銅需給: 2026年精製銅不足15万トン（従来予測は余剰）。AIデータセンター1施設あたり最大5万トン消費。JPMorgan予測 $12,500/t Q2 2026。
 
 ---
 
@@ -137,6 +140,7 @@ green hydrogen electrolyzer cost {YYYY-MM}
 
 ### 最新動向（更新欄）
 <!-- auto-agent が毎日追記 -->
+- 2026-05-11: IRA FEOC: 2026年バッテリー重要鉱物70%以上を米国・FTA国調達が必須。黒鉛等一部は2026年末まで溯及調査免除の経過措置。
 
 ---
 
