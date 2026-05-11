@@ -49,3 +49,7 @@ AITO は HIMA（Huawei Inside Mobility Alliance）参加で Huawei 完全依存�
 - [CnEVPost — Aito to launch new SUV M6 in Q2 2026](https://cnevpost.com/2025/11/24/aito-to-launch-new-suv-m6-q2-2026/) [二次]
 - [GlobalChinaEV — AITO M6 60,000 pre-orders in 24 hours](https://www.globalchinaev.com/post/huawei-backed-aito-m6-arrives-in-showrooms-with-60000-pre-orders-in-24-hours) [二次]
 - [CnEVPost — Huawei HIMA opens pre-orders for Maextro S800, Aito M9](https://cnevpost.com/2026/03/04/huawei-hima-opens-pre-orders-maextro-s800-aito-m9-top-spec-lidar/) [二次]
+
+
+## 直近アップデート
+- 2026-05-11: AITOがBMW・Mercedes-Benzと中国充電JVに対等パートナーとして参加。 ([出典](https://electrek.co/2026/04/22/seres-aito-joins-bmw-mercedes-ionchi-charging-jv-china/))
