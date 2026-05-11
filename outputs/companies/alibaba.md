@@ -62,3 +62,7 @@
 | 日付 | 更新内容 | 更新者 |
 |---|---|---|
 | 2026-05-07 | 初期テンプレート作成 | system |
+
+
+## 直近アップデート
+- 2026-05-11: Auto China 2026：Qwen が複数OEMの車内AI基盤として展開。Xiaomi/HIMA連携。 ([出典](https://www.marklines.com/en/report/rep3006_202604))
