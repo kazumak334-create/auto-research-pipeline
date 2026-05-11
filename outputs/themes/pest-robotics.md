@@ -45,6 +45,7 @@ autonomous delivery drone regulation {YYYY-MM}
 
 ### 最新動向（更新欄）
 <!-- auto-agent が毎日追記 -->
+- 2026-05-11: Tesla Optimus 3（第3世代）2026年中頃デビュー、7-8月大量生産開始。Fremont工場（年間100万台キャパ）に転換。
 
 ---
 
@@ -77,6 +78,7 @@ robot density IFR annual report 2026
 
 ### 最新動向（更新欄）
 <!-- auto-agent が毎日追記 -->
+- 2026-05-11: Boston Dynamics Atlas CES 2026商用版発表。Hyundai Metaplantに初期導入。Unitree R1が$4,370でAliExpress販売。
 
 ---
 
@@ -99,6 +101,7 @@ robot programming STEM education {YYYY-MM}
 
 ### 最新動向（更新欄）
 <!-- auto-agent が毎日追記 -->
+- 2026-05-11: NVIDIA CEO「すべての産業企業がロボティクス企業になる」。FANUC+NVIDIA音声コマンドロボット。Yaskawa MODEX 2026でAI駆動重量ロボット展示。
 
 ---
 
@@ -136,6 +139,7 @@ collaborative robot cobot industrial AMR {YYYY-MM}
 
 ### 最新動向（更新欄）
 <!-- auto-agent が毎日追記 -->
+- 2026-05-11: 中国15次5カ年計画がロボティクス最優先産業に指定。国家電網2026年に68億元のEmbodied AI導入。政府調達でUnitree/AgiBot優遇。
 
 ---
 
