@@ -132,3 +132,7 @@ Honda 0 Series 中止（2026.3.12）と Ford EV プログラム後退（2026 Q1,
 - [Eletric-vehicles — Ford Restructures EV Plans Again as Unit's Chief Exits](https://eletric-vehicles.com/ford/ford-restructures-ev-plans-again-as-units-chief-exits-farley-courts-china/) [二次]
 - [WardsAuto — Ford scraps EV plans, shifts to hybrids, EREVs](https://www.wardsauto.com/news/ford-scraps-ev-plans-focusing-hybrids-erevs-new-trucks-battery-storage/808026/) [二次]
 - [WardsAuto — Ford, SK On dissolving BlueOval SK](https://www.wardsauto.com/news/ford-skon-dissolving-blueoval-sk-ev-battery-joint-venture/807726/) [二次]
+
+
+## 直近アップデート
+- 2026-05-11: 最小EV（Puma Gen-E）の航続延長とハンズフリー高速道路走行機能追加。 ([出典](https://insideevs.com/news/789194/ford-puma-gen-e-2026-bigger-battery-bluecruise/))
