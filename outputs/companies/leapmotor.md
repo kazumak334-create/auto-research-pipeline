@@ -48,3 +48,7 @@ Leapmotor は中国OEM が西側資本（Stellantis）で海外展開する事�
 
 - [Stellantis Media — Leapmotor March 2026 Results in Europe](https://www.media.stellantis.com/em-en/leapmotor/press/leapmotor-march-2026-results-in-europe) [一次]
 - [Stellantis Media — Leapmotor Q1 No.1 NEV Start Up](https://www.media.stellantis.com/em-en/leapmotor/press/leapmotor-confirms-no-1-nev-start-up-position-with-robust-q1-growth-and-50-029-vehicles-in-march-2026) [一次]
+
+
+## 直近アップデート
+- 2026-05-11: Stellantisとのパートナーシップ拡大、欧州EV製造推進。4月71,387台 (+73.9%) 過去最高。 ([出典](https://www.cbtnews.com/stellantis-leapmotor-expand-partnership/))
