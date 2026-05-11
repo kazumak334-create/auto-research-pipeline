@@ -146,3 +146,7 @@ Honda の P2-T（ASIMO OS + Gemini）から Xiaomi P1-E への到達距離は大
 
 - [Carnewschina — Xiaomi SU7 40,000 firm orders](https://carnewschina.com/2026/04/03/xiaomi-autos-new-su7-receives-40000-firm-orders-amidst-ambitious-2026-product-expansion/) [二次]
 - [Autoblog — Xiaomi 550,000 vehicle goal](https://www.autoblog.com/news/xiaomi-eyes-550000-vehicle-sales-goal-as-auto-push-accelerates) [二次]
+
+
+## 直近アップデート
+- 2026-05-11: SU7 が48日で8万台受注、4月配送3万台超。YU7 GT 5月末デビュー（990hp、300km/h）。 ([出典](https://carnewschina.com/2026/05/06/xiaomi-su7-hits-80000-orders-in-48-days-april-deliveries-exceed-30000-units/))
