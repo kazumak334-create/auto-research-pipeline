@@ -149,3 +149,7 @@ Honda の P2-T（ASIMO OS + Gemini）から Li Auto P1-E への到達距離は�
 
 - [CnEVPost — Li Auto sets 20% growth goal for 2026](https://cnevpost.com/2026/03/12/li-auto-sets-20-growth-goal-for-2026/) [二次]
 - [StockTitan — Li Auto February 2026 deliveries](https://www.stocktitan.net/news/LI/li-auto-inc-february-2026-delivery-59vimkg9csue.html) [一次]
+
+
+## 直近アップデート
+- 2026-05-11: 2026年目標55万台配達、REEV重視路線継続。4月34,085台 (+0.4%)。 ([出典](https://cnevpost.com/2026/01/21/li-auto-aims-550000-sales-2026-increased-focus-erevs/))
