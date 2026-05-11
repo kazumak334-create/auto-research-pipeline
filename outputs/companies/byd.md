@@ -127,3 +127,7 @@ Honda P2-T（ASIMO OS + Gemini）と BYD P3-E（Multi-Agent）の差は Multi-Ag
 - [CnEVPost — BYD aims for 1.3 million overseas sales in 2026](https://cnevpost.com/2026/01/24/byd-aims-for-1-3-million-overseas-sales-2026/) [二次]
 - [Bloomberg / Automotive World — BYD 1.5 million overseas sales](https://www.automotiveworld.com/news/bloomberg-byd-tells-analysts-1-5-million-overseas-sales-in-2026/) [二次]
 - [Tridens — BYD Sales by Model and Country (Mar 2026)](https://tridenstechnology.com/byd-sales-statistics/) [二次]
+
+
+## 直近アップデート
+- 2026-05-11: 4月乗用EV31.4万台 (-15.7% YoY) 8ヶ月連続前年比減。輸出13.5万台 (+70%)は過去最高。競合激化。 ([出典](https://www.cnbc.com/2026/05/05/byd-april-sales-exports-china-ev-rivals-leapmotor-zeekr.html))
