@@ -46,3 +46,7 @@ Geely の「DeepSeek + Xingrui 自社 + Cerence xUI」三層 Multi-Agent は、H
 
 - [CnEVPost — Zeekr completes merger with Geely, delists from NYSE](https://cnevpost.com/2025/12/22/zeekr-completes-merger-with-geely-delists-from-nyse/) [一次]
 - [PRNewswire — Zeekr Group Announces Completion of Merger](https://www.prnewswire.com/news-releases/zeekr-group-announces-completion-of-merger-302647823.html) [一次]
+
+
+## 直近アップデート
+- 2026-05-11: 4月販売23.5万台。Zeekr好調。 ([出典](https://autonews.gasgoo.com/articles/ev/geely-auto-april-sales-reach-235000-units-2052294977630134272))
