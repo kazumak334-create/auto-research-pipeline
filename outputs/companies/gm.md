@@ -130,3 +130,7 @@ Honda P2-T と GM P2→P3 hybrid は近似。GM は Cruise 撤退で「自前ADA
 - [CNBC — GM Q1 2026 earnings](https://www.cnbc.com/2026/04/28/general-motors-gm-earnings-q1-2026.html) [二次]
 - [GM IR — Q1 2026 Earnings Deck](https://investor.gm.com/static-files/fa689555-e0aa-4c5c-be5c-fba9c1d9049f) [一次]
 - [GM IR — Q1 2026 Letter to Shareholders](https://investor.gm.com/news-releases/news-release-details/q1-2026-letter-shareholders) [一次]
+
+
+## 直近アップデート
+- 2026-05-11: Cadillac、米国EV累計10万台突破。Ultifi/Gemini AI展開継続。 ([出典](https://news.gm.com/home.detail.html/Pages/topic/us/en/2026/may/0507-cadillac-ev-sales.html))
