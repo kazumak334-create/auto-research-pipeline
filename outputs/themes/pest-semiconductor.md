@@ -45,6 +45,7 @@ EU European Chips Act 2030 target {YYYY-MM}
 
 ### 最新動向（更新欄）
 <!-- auto-agent が毎日追記 -->
+- 2026-05-11: 米国BIS 2026年5月、対中半導体輸出規制追加検討。AI GPU需要急増で規制強化圧力継続。
 
 ---
 
@@ -77,6 +78,7 @@ semiconductor equipment orders ASML Applied Materials {YYYY-MM}
 
 ### 最新動向（更新欄）
 <!-- auto-agent が毎日追記 -->
+- 2026-05-11: NVIDIA Blackwell 2026年中頃完売。$500B予約パイプライン。GB200 NVL72が主力SKU。
 
 ---
 
@@ -98,6 +100,7 @@ Japan semiconductor engineer shortage Kyushu Hokkaido {YYYY-MM}
 
 ### 最新動向（更新欄）
 <!-- auto-agent が毎日追記 -->
+- 2026-05-11: TSMC N2（2nm）月産10万枚、2026年ソールドアウト。Apple・NVIDIAが優先確保。
 
 ---
 
@@ -124,6 +127,7 @@ SiC GaN power semiconductor EV cost {YYYY-MM}
 
 ### 最新動向（更新欄）
 <!-- auto-agent が毎日追記 -->
+- 2026-05-11: HBM3e需要急増。SK Hynix・Micronが供給拡大加速。2026年末まで需給タイト。
 
 ---
 
