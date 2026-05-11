@@ -63,3 +63,7 @@
 | 日付 | 更新内容 | 更新者 |
 |---|---|---|
 | 2026-05-07 | 初期テンプレート作成 | system |
+
+
+## 直近アップデート
+- 2026-05-11: Apollo 自律運転 2026グローバル戦略発表。Ji Yue拡大中。 ([出典](https://enkiai.com/ai-market-intelligence/baidu-autonomous-driving-2026-global-strategy-unveiled))
