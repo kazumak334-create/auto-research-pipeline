@@ -43,3 +43,7 @@ Zeekr は NVIDIA DRIVE Thor を世界初 OEM 採用。Honda が Helm.ai/NVIDIA �
 ## 出典（2026 Q1追加）
 
 - [CnEVPost — Zeekr completes merger with Geely, delists from NYSE](https://cnevpost.com/2025/12/22/zeekr-completes-merger-with-geely-delists-from-nyse/) [一次]
+
+
+## 直近アップデート
+- 2026-05-11: ZEEKR 007 更新版：900Vシステム、強化ADAS、Q2発売。4月31,787台 (+131.6% YoY)、月次過去最高。 ([出典](https://electrek.co/2026/01/17/updated-zeekr-007-gets-900v-system-better-adas-q2-release-date/))
