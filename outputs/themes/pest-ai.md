@@ -44,6 +44,7 @@ AI copyright legislation US EU Japan {YYYY-MM}
 
 ### 最新動向（更新欄）
 <!-- auto-agent が毎日追記 -->
+- 2026-05-11: Anthropic Claude Opus 4.7リリース。年間収益ランレート$30B超。Trump政権、Google/MS/xAI AIモデルの政府評価合意。
 
 ---
 
@@ -76,6 +77,7 @@ AI startup funding venture capital {YYYY-MM} site:pitchbook.com OR site:crunchba
 
 ### 最新動向（更新欄）
 <!-- auto-agent が毎日追記 -->
+- 2026-05-11: EU AI Act 2026年8月完全施行迫る。一部高リスク要件は2027-2028年に延期交渉中。米国は連邦統一AI法案非拘束フレームワークのみ。
 
 ---
 
@@ -100,6 +102,7 @@ AI aging society Japan demographic {YYYY-MM}
 
 ### 最新動向（更新欄）
 <!-- auto-agent が毎日追記 -->
+- 2026-05-11: Google Cloud Q1 +63%で$20B、AI生成製品収益+800%。Azure +40%で$34.7B。Big Tech AI Capex合計~$700B。
 
 ---
 
@@ -136,6 +139,7 @@ edge AI on-device inference smartphone {YYYY-MM}
 
 ### 最新動向（更新欄）
 <!-- auto-agent が毎日追記 -->
+- 2026-05-11: DeepSeek V4-Pro（1.6Tパラメータ）プレビューリリース。Huawei Ascend 950活用。MIT License、競合比4倍安価。
 
 ---
 
