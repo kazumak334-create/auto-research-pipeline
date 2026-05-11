@@ -206,3 +206,7 @@ Level 2：内製 vs 外部活用、GAS vs 単独アプリ（旧議事録の問�
 - [AFEELA公式 2026/04/21 — ソニー・ホンダモビリティの今後の事業の方向性について](https://www.shm-afeela.com/ja/news/2026-04-21/)
 - [日経xTECH — ホンダEV3車種の開発中止、損失はなぜこれほど膨らんだのか](https://xtech.nikkei.com/atcl/nxt/column/18/00050/00237/)
 - [InsideEVs — Sony And Honda's Afeela EVs Are Dead](https://insideevs.com/news/791060/sony-honda-afeela-evs-canceled/)
+
+
+## 直近アップデート
+- 2026-05-11: Honda 0 SUV/Saloon CES 2025発表（2025年記事）。ASIMO OS、Renesas SoC提携。北米2026H1投入計画（現在は戦略転換により中止）。 ([出典](https://hondanews.com/en-US/releases/honda-0-saloon-and-honda-0-suv-prototypes-make-global-debut-at-ces-honda-announces-new-asimo-operating-system))
