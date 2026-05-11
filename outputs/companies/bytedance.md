@@ -62,3 +62,7 @@
 | 日付 | 更新内容 | 更新者 |
 |---|---|---|
 | 2026-05-07 | 初期テンプレート作成 | system |
+
+
+## 直近アップデート
+- 2026-05-11: Dongchedi / 車載AIで存在感継続。直接的な主要ニュースなし。 ([出典](https://carnewschina.com/2026/04/24/xiaomi-yu7-gt-to-debut-in-late-may-with-990-hp-and-300-km-h-top-speed/))
