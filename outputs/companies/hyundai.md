@@ -125,3 +125,7 @@ Honda 段階2 量産前（ASIMO OS Orch [未特定]・Gemini API）と Hyundai �
 | ローンチ日 | 2026-04-30 正式ローンチ | 公式発表 [一次] |
 | FM Level B | 確認（42dot + SKT Sovereign AI コンソーシアム）| 発表文「proprietary LLM technology」[一次] |
 | 2030 台数目標 | 2,000万台（Hyundai/Kia/Genesis 合算）| 維持 [一次] |
+
+
+## 直近アップデート
+- 2026-05-11: NVIDIA が Hyundai・Kia との自律走行パートナーシップ拡大を発表。 ([出典](https://electriccarsreport.com/2026/03/nvidia-expands-autonomous-driving-partnership-with-hyundai-and-kia/))
