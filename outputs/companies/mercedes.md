@@ -162,3 +162,7 @@ Honda の P2-T（ASIMO OS + Gemini 単一）から Mercedes P2-E（Multi-Agent +
 
 - [Mercedes 公式 — Mercedes-Benz and Liquid AI Partner](https://media.mbusa.com/releases/mercedes-benz-and-liquid-ai-partner-to-scale-embedded-in-car-intelligence-in-north-america) [一次]
 - [Businesswire — Mercedes-Benz Liquid AI Partner 2026.4.23](https://www.businesswire.com/news/home/20260423009970/en/Mercedes-Benz-and-Liquid-AI-Partner-to-Scale-Embedded-In-Car-Intelligence-in-North-America) [一次]
+
+
+## 直近アップデート
+- 2026-05-11: NVIDIA DRIVE AV が2026 Mercedes-Benz CLA の先進AI機能を搭載。 ([出典](https://blockchain.news/ainews/nvidia-drive-av-software-powers-advanced-ai-features-in-2026-mercedes-benz-cla))
