@@ -49,3 +49,7 @@ Changan は中国で L3 国家初認証取得（Deepal SL03）= 中国規制環�
 - [Carnewschina — Changan to fuse Avatr and Deepal operations](https://carnewschina.com/2026/04/21/changan-to-fuse-avatr-and-deepal-operations-as-avatr-q1-sales-plunge-41-6/) [二次]
 - [Caixin Global — Changan to Integrate EV Brands' Back-End Operations](https://www.caixinglobal.com/2026-04-24/changan-to-integrate-ev-brands-back-end-operations-to-cut-costs-102437277.html) [二次]
 - [Paultan — Changan Auto coming to Malaysia by Q3 2026](https://paultan.org/2026/04/21/changan-auto-coming-to-malaysia-with-nevo-deepal-avatr-chinese-top-four-player-arriving-by-q3-2026/) [二次]
+
+
+## 直近アップデート
+- 2026-05-11: AvatrとDeepalを統合。Avatr Q1販売 -41.6%不振。 ([出典](https://carnewschina.com/2026/04/21/changan-to-fuse-avatr-and-deepal-operations-as-avatr-q1-sales-plunge-41-6/))
