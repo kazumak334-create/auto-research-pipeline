@@ -49,3 +49,7 @@ XPeng VLA 2.0 が VW CEA アーキテクチャに採用される量産事例は�
 - [CnEVPost — Xpeng secures VW as first customer for VLA 2.0](https://cnevpost.com/2026/02/24/xpeng-secures-vw-first-customer-vla-2-targets-1-million-overseas-sales-2030/) [二次]
 - [Technode — Volkswagen becomes launch customer for XPeng's VLA 2.0](https://technode.com/2026/02/26/volkswagen-becomes-launch-customer-for-xpengs-vla-2-0-model/) [二次]
 - [CNBC — VW deal with XPeng shows how China tech threatens Western automakers](https://www.cnbc.com/2026/04/01/volkswagen-xpeng-deal-threat-rivian-us-automakers.html) [二次]
+
+
+## 直近アップデート
+- 2026-05-11: Volkswagen が XPeng VLA 2.0 自律走行ソリューション採用を発表。4月販売31,011台 (-11.5% YoY)。 ([出典](https://eletric-vehicles.com/xpeng/volkswagen-to-adopt-xpengs-autonomous-driving-solution-vla-2-0/))
