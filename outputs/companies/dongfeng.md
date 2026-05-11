@@ -51,3 +51,7 @@ Dongfeng は Honda の中国合弁パートナー（東風本田）。Dongfeng �
 - [CnEVPost — Voyah delivers 10,515 cars in Jan](https://cnevpost.com/2026/02/01/voyah-delivers-10515-cars-jan-plans-4-models-2026/) [二次]
 - [CnEVPost — Dongfeng Voyah HK stock market debut](https://cnevpost.com/2026/03/19/dongfeng-voyah-makes-hk-stock-market-debut/) [二次]
 - [China Daily — Dongfeng targets 3.25M vehicles in 2026](https://www.chinadaily.com.cn/a/202602/02/WS69803c8ea310d6866eb36f1f.html) [二次]
+
+
+## 直近アップデート
+- 2026-05-11: Voyah Dream：PHEV 1,530km / EV 700km CLTC航続。 ([出典](https://paultan.org/2026/05/05/dongfeng-voyah-dream-auto-china-2026-beijing/))
