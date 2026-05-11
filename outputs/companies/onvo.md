@@ -46,3 +46,7 @@ Onvo は親 NIO の Shenji NX9031 自社チップを大衆価格帯（25-40万�
 
 - [Eletric-vehicles — Onvo's EV Deliveries Jump YoY in March](https://eletric-vehicles.com/nio/onvo/onvos-ev-deliveries-jump-yoy-in-march-more-than-double-sequentially/) [二次]
 - [Eletric-vehicles — Nio CEO Tells Staff to 'Seize' Q2 With ES9, Onvo L80 Launches](https://eletric-vehicles.com/nio/nio-ceo-tells-staff-to-seize-q2-with-es9-onvo-l80-launches/) [二次]
+
+
+## 直近アップデート
+- 2026-05-11: NIO Onvo 2026 L90 SUV配達開始。 ([出典](https://cnevpost.com/2026/05/09/nio-onvo-starts-deliveries-2026-l90/))
