@@ -63,3 +63,7 @@
 | 日付 | 更新内容 | 更新者 |
 |---|---|---|
 | 2026-05-07 | 初期テンプレート作成 | system |
+
+
+## 直近アップデート
+- 2026-05-11: TAI車載AI展開継続。中国OEM向けWeChat Car統合。 ([出典](https://autonews.gasgoo.com/articles/ev/teslas-2026-mission-navigating-through-competition-with-chinese-automakers-2010712617306140673))
