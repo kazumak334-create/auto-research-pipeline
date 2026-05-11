@@ -126,3 +126,7 @@ Honda P2-T（ASIMO OS 自前堅持）と VW P3→C hybrid（CARIAD 失速）の�
 - [Carnewschina — VW starts production of XPeng co-developed CEA architecture](https://carnewschina.com/2026/01/29/volkswagen-starts-production-of-xpeng-co-developed-cea-architecture-five-new-models-due-in-2026/) [二次]
 - [Technode — Volkswagen becomes launch customer for XPeng's VLA 2.0](https://technode.com/2026/02/26/volkswagen-becomes-launch-customer-for-xpengs-vla-2-0-model/) [二次]
 - [CnEVPost — Xpeng secures VW as first customer for VLA 2.0](https://cnevpost.com/2026/02/24/xpeng-secures-vw-first-customer-vla-2-targets-1-million-overseas-sales-2030/) [二次]
+
+
+## 直近アップデート
+- 2026-05-11: CARIADの役割縮小を発表。RivianとXPengからソフトウェア調達へ転換。 ([出典](https://ev.com/news/volkswagen-scales-back-cariads-role-turns-to-rivian-and-xpeng-for-software-development))
