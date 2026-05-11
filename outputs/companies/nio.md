@@ -48,3 +48,7 @@ NIO は3ブランド（NIO/Onvo/Firefly）+ NIO Phoneエコシステムで完全
 
 - [StockTitan — NIO March Deliveries Jump 136%](https://www.stocktitan.net/news/NIO/nio-inc-provides-march-and-first-quarter-2026-delivery-pwq0amsmgitq.html) [一次]
 - [Financial News — NIO First-Ever Quarterly Profit](https://www.financial-news.co.uk/nio-stock-price-analysis-first-ever-quarterly-profit-a-98-delivery-surge-and-whats-actually-driving-the-shares-in-april-2026/) [二次]
+
+
+## 直近アップデート
+- 2026-05-11: 5月連休で100万回バッテリー交換達成。4月販売29,356台 (+22.8% YoY)。OnvoとFireflyブランド含む。 ([出典](https://cnevpost.com/2026/05/07/nio-provides-1-million-battery-swaps-may-day-holiday/))
