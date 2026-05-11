@@ -111,3 +111,7 @@ Honda P2-T と BMW P3-T の差は Orch 内製度合い。BMW は IPA を残し�
 - BMW Alexa+ の Tool Use 数 / 70+LLM の構成（理由：Bedrock基盤は確認、各LLM の役割分担は非公開）
 - iX3 China（2026年末 Momenta 量産）と独・米向け（Alexa+）の機能差（理由：[未特定]）
 - Alexa+ の他 BMW モデル展開時期（理由：iX3 のみ確認）
+
+
+## 直近アップデート
+- 2026-05-11: Neue Klasse Auto China 2026でお披露目。新世代EV/ソフトウェアプラットフォーム。 ([出典](https://electriccarsreport.com/2026/04/bmw-ix3-long-wheelbase-and-i3-long-wheelbase-unveiled-in-beijing/))
