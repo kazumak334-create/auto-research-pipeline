@@ -126,3 +126,7 @@ Honda P2-T（ASIMO OS + Gemini + Helm.ai）と Nissan P3-T（NissanConnect + Way
 - [ION Analytics — Nissan CFO outlines strategic reset](https://ionanalytics.com/insights/mergermarket/nissan-cfo-outlines-strategic-reset-partnership-priorities-amid-tariff-turmoil/) [二次]
 - [CBT News — Nissan accelerates product launches](https://www.cbtnews.com/nissan-accelerates-product-launches-as-it-battles-the-worst-financial-crisis-in-decades/) [二次]
 - [Motor Finance Online — Nissan walks away from Honda merger talks](https://www.motorfinanceonline.com/features/nissan-walks-away-from-honda-merger-talks-leaving-future-uncertain/) [二次]
+
+
+## 直近アップデート
+- 2026-05-11: Mobility Intelligence for Everyday (MIND) 長期ビジョン発表。ProPILOT継続展開。 ([出典](https://global.nissannews.com/en/releases/260414-vision))
