@@ -45,6 +45,7 @@ China NEV credit subsidy policy {YYYY-MM}
 
 ### 最新動向（更新欄）
 <!-- auto-agent が毎日追記 -->
+- 2026-05-11: EU CO2規制2025年罰則猶予期間中。米国USMCA再交渉7月開始、自動車関税継続圧力。中国NEV補助金継続（2026年末まで）。
 
 ---
 
