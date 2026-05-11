@@ -151,3 +151,7 @@ Honda の P2-T（ASIMO OS + Gemini）と Stellantis の P3-T は近似する見�
 - [Stellantis 公式 — Q1 2026 Estimated Consolidated Shipments](https://www.stellantis.com/en/news/press-releases/2026/april/stellantis-reports-q1-2026-estimated-consolidated-shipments-of-1-4-million-units-12-percent-y-o-y) [一次]
 - [Reuters / BNN — Stellantis to focus funding on core car brands](https://www.bnnbloomberg.ca/business/2026/04/24/stellantis-to-focus-funding-on-core-car-brands-as-ceo-drives-turnaround-reuters-sources-say/) [二次]
 - [CBT News — Stellantis halts Level 3 driver-assistance program](https://www.cbtnews.com/stellantis-halts-level-3-driver-assistance-program-amid-cost-and-demand-concerns/) [二次]
+
+
+## 直近アップデート
+- 2026-05-11: LeapmotorとのOpel EV・スペイン工場移管でパートナーシップ深化。 ([出典](https://cnevpost.com/2026/05/08/stellantis-deepens-leapmotor-tie-up-opel-ev-spanish-plant-transfer/))
