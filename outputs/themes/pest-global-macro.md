@@ -45,6 +45,7 @@ EU competitiveness Draghi agenda implementation {YYYY-MM}
 
 ### 最新動向（更新欄）
 <!-- auto-agent が毎日追記 -->
+- 2026-05-11: Big Tech AI Capex ~$700B（MS+Google+Meta+Amazon）。銅2026年供給不足15万t、JPMorgan $12,500/t予測。リチウム価格+50% YTD。DeepSeek V4 MIT Licenseで価格破壊継続。中国NEV60.6%浸透で新エネ転換加速。米国関税でHonda $9.1B負担、USMCA再交渉7月。
 
 ---
 
