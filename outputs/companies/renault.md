@@ -111,3 +111,7 @@ Honda P2-T（ASIMO OS 自前 + Gemini 外部）と Renault P3-T（AAOS 外部 + 
 - Renault Gemini OTA 2026下期 量産モデル名（理由：全モデル一斉か特定モデル先行か未公開）
 - 中国向け自動運転外部依存先（理由：[未特定]）
 - Reno の Tool Use カバー範囲（理由：[未特定]）
+
+
+## 直近アップデート
+- 2026-05-11: futuREady戦略：2030年までに36新モデル、先進EV技術。 ([出典](https://electriccarsreport.com/2026/03/renault-unveils-futuready-strategy-with-36-new-models-and-advanced-ev-technology-by-2030/))
