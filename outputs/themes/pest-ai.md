@@ -1,0 +1,160 @@
+# PEST分析: AI産業（生成AI・基盤モデル・AIインフラ）
+**フレーム:** PEST × AGI移行リスク × 企業競争構造  
+**最終更新:** 初版（2026-05-11）  
+**更新者:** auto-agent
+
+---
+
+## 概要・主要論点
+
+生成AIは「研究フェーズ」から「大規模産業実装フェーズ」に移行中（2024-2026年）。
+基盤モデル競争（OpenAI / Google / Anthropic / Meta / xAI / 中国勢）× AIインフラ投資（$600B+宣言）× 規制枠組み形成が同時進行。
+収益化格差（BtoBエンタープライズ進展 vs BtoCマネタイズ難）が企業間淘汰の主軸。
+
+**2026年5月時点のキーナンバー:**
+
+| 指標 | 数値 |
+|------|------|
+| 生成AI市場規模 | ~$150B（2025年推計） |
+| Microsoft / Google AI関連CAPEX | 各社$50B+/年 |
+| OpenAI 年間収益 | ~$3.4B（2024年）→$10B+（2025年推計） |
+| EU AI Act 高リスクシステム規制 | 2025年8月施行 |
+| 中国AI企業数（基盤モデル） | 約130社（2025年末時点） |
+
+---
+
+## P: 政治・規制 (Political)
+
+### 主要監視テーマ
+- EU AI Act：リスク分類（禁止／高リスク／限定リスク）の実装・産業影響
+- 米国大統領令（AI安全・セキュリティ）：バイデン→トランプ政権での規制方向転換
+- 中国AI規制：生成AIサービス規制（2023年）/ ディープシンセシス規制 / アルゴリズム規制
+- G7/G20 AI ガバナンスフレームワーク（広島AIプロセス後継）
+- AI著作権問題：米国・EU・日本での立法動向
+- AIの軍事・安全保障利用規制（自律型兵器システム）
+
+### 検索クエリテンプレート（{YYYY-MM}を当日年月に置換）
+```
+EU AI Act implementation enforcement {YYYY-MM} site:reuters.com OR site:ft.com
+US AI policy regulation executive order {YYYY-MM}
+China AI regulation generative AI governance {YYYY-MM}
+G7 AI governance Hiroshima process {YYYY-MM}
+AI copyright legislation US EU Japan {YYYY-MM}
+```
+
+### 最新動向（更新欄）
+<!-- auto-agent が毎日追記 -->
+
+---
+
+## E: 経済 (Economic) ※マンキュー変数ベース
+
+### マクロ変数→AI産業への波及
+| マンキュー変数 | AI産業への影響 |
+|-------------|--------------|
+| 高金利環境 | AIスタートアップ資金調達コスト上昇・バリュエーション圧縮 |
+| AI投資乗数 | AI設備投資→短期GDPには貢献、長期生産性向上は未確認 |
+| 労働市場 | AIによるホワイトカラー労働代替が失業率統計に反映されるタイムラグ |
+| ドル高 | 米国AI企業の海外収益換算増加、欧州企業の競争力相対低下 |
+
+### 産業固有経済指標
+**監視ポイント:**
+- 大手テック CAPEX（Microsoft / Google / Amazon / Meta）：AI GPU投資実額
+- OpenAI / Anthropic 年間収益・月次ARR成長率
+- AI推論コスト：$/1M tokens の下落速度（規模の経済 vs モデル効率化）
+- エンタープライズAI導入率：Fortune 500でのCopilot / Gemini Enterprise導入
+- AI関連VC投資：ステージ別・地域別資金フロー
+
+**検索クエリ:**
+```
+Microsoft Google Amazon Meta AI CAPEX investment {YYYY-MM} quarterly earnings
+OpenAI Anthropic revenue ARR growth {YYYY-MM}
+AI inference cost per token decline {YYYY-MM}
+enterprise AI adoption Copilot Gemini {YYYY-MM}
+AI startup funding venture capital {YYYY-MM} site:pitchbook.com OR site:crunchbase.com
+```
+
+### 最新動向（更新欄）
+<!-- auto-agent が毎日追記 -->
+
+---
+
+## S: 社会・労働市場 (Social)
+
+### 主要監視テーマ
+- ホワイトカラー労働代替：コーディング / 法務 / 財務分析 / カスタマーサポート
+- AI信頼性：ハルシネーション・バイアス問題への社会的対応
+- デジタルデバイド：AI利用格差（先進国 vs 途上国 / 富裕層 vs 中間層）
+- 教育変革：大学・企業研修でのAIスキル要求急増
+- 創作産業への影響：アーティスト・ライター・クリエイターの収益モデル崩壊
+- 人口動態 × AI：少子高齢化社会でのAI補完需要（特に日本）
+
+### 検索クエリテンプレート
+```
+AI job displacement white collar employment survey {YYYY-MM}
+AI trust hallucination bias society {YYYY-MM}
+AI skills education workforce training {YYYY-MM}
+generative AI creative industry impact writers artists {YYYY-MM}
+AI aging society Japan demographic {YYYY-MM}
+```
+
+### 最新動向（更新欄）
+<!-- auto-agent が毎日追記 -->
+
+---
+
+## T: 技術 (Technological)
+
+### 主要監視テーマ
+**基盤モデル競争:**
+- OpenAI：GPT-4o以降・o3推論モデル・AGI主張の検証
+- Google：Gemini Ultra 2.0 / Project Astra（マルチモーダルエージェント）
+- Anthropic：Claude 4系の能力向上・Constitutional AI実装
+- Meta：LLaMA 4系オープンソース展開・コミュニティエコシステム
+- 中国勢：DeepSeek R2 / Qwen3 / Baidu ERNIE 4.0
+
+**アーキテクチャ・効率化:**
+- 推論効率：MoE（Mixture of Experts）→ 少ないパラメータで高性能
+- テスト時計算（Test-Time Compute）：o3型の強化学習推論
+- マルチモーダル：テキスト + 画像 + 音声 + 動画 + コードの統合
+- エージェント：自律的タスク実行（Computer Use / Tool Use）
+
+**インフラ:**
+- NVIDIABlackwell GB200 NVL72供給状況
+- カスタムASIC：Google TPU v5 / Amazon Trainium / Microsoft Maia
+- エッジAI：スマートフォン・車載での推論（Apple A18 / Qualcomm Oryon）
+
+### 検索クエリテンプレート
+```
+GPT OpenAI model benchmark update {YYYY-MM}
+Google Gemini Anthropic Claude model release {YYYY-MM}
+DeepSeek Qwen Chinese AI model performance {YYYY-MM}
+AI agent autonomous computer use {YYYY-MM}
+NVIDIA Blackwell GPU supply AI infrastructure {YYYY-MM}
+edge AI on-device inference smartphone {YYYY-MM}
+```
+
+### 最新動向（更新欄）
+<!-- auto-agent が毎日追記 -->
+
+---
+
+## 企業別競争ポジション概観
+
+| 企業 | 強み | 主要リスク |
+|------|------|-----------|
+| OpenAI | 先行者優位・ブランド・API生態系 | 規制リスク・資金依存・競合追い上げ |
+| Google DeepMind | 検索統合・TPU垂直統合・データ | AI検索侵食・独禁リスク |
+| Anthropic | 安全性ブランド・エンタープライズ | 規模の劣後 |
+| Meta | オープンソース戦略・広告データ | プロプライエタリ技術流出 |
+| Microsoft | エンタープライズ統合（Copilot365） | OpenAI依存リスク |
+| NVIDIA | AI GPU独占的地位（H100/B200） | 競合ASIC台頭・輸出規制 |
+| DeepSeek/中国勢 | コスト効率・中国市場 | 輸出規制・データ懸念で国際展開制限 |
+
+---
+
+## 更新ログ
+
+| 日付 | 更新内容 | 更新者 |
+|------|---------|--------|
+| 2026-05-11 | 初版作成。基盤モデル競争・AI規制・労働代替の3軸でPEST設計 | auto-agent |

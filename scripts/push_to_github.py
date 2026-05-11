@@ -96,10 +96,11 @@ def collect_files(date: str) -> list[tuple[Path, str]]:
         for md in sorted(companies_dir.glob("*.md")):
             files.append((md, f"outputs/companies/{md.name}"))
 
-    # マクロ環境テーマ
-    macro = BASE_DIR / "outputs" / "themes" / "macro-industry.md"
-    if macro.exists():
-        files.append((macro, "outputs/themes/macro-industry.md"))
+    # テーマMD（macro-industry.md + pest-*.md）
+    themes_dir = BASE_DIR / "outputs" / "themes"
+    if themes_dir.exists():
+        for md in sorted(themes_dir.glob("*.md")):
+            files.append((md, f"outputs/themes/{md.name}"))
 
     return files
 
