@@ -142,3 +142,7 @@ Honda の P2-T（ASIMO OS + Gemini）から Tesla P1-E への到達距離は超�
 - [Tesla Q1 2026 Update PDF](https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q1-2026-Update.pdf) [一次]
 - [Notateslaapp — Tesla Delays Next-Gen AI5 to Mid-2027](https://www.notateslaapp.com/news/3337/tesla-delays-next-gen-ai5-to-mid-2027-cybercab-will-launch-on-ai4-hardware) [二次]
 - [BigGo Finance — Tesla Q1 2026 Earnings Call](https://finance.biggo.com/news/US_TSLA_2026-04-22) [二次]
+
+
+## 直近アップデート
+- 2026-05-11: Tesla FSD 中国での2026年初完全承認をMusk示唆（2025年末時点記事）。 ([出典](https://cnevpost.com/2025/11/07/china-to-fully-approve-tesla-fsd-early-2026/))
