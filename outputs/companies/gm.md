@@ -134,3 +134,9 @@ Honda P2-T と GM P2→P3 hybrid は近似。GM は Cruise 撤退で「自前ADA
 
 ## 直近アップデート
 - 2026-05-11: Cadillac、米国EV累計10万台突破。Ultifi/Gemini AI展開継続。 ([出典](https://news.gm.com/home.detail.html/Pages/topic/us/en/2026/may/0507-cadillac-ev-sales.html))
+
+### 2026-05-13
+- 事実：GMがIT人員500〜600名削減、AI・次世代技術人材へのシフトを発表。EV販売低迷・関税圧力・AI代替が背景
+- 出典：https://www.detroitnews.com/story/business/autos/general-motors/2026/05/11/gm-to-cut-some-tech-jobs-bloomberg-reports/90030498007/
+- 発表日：（2026-05-11）
+- 確度：中（industry_media）
