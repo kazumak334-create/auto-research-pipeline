@@ -129,3 +129,9 @@ Honda 段階2 量産前（ASIMO OS Orch [未特定]・Gemini API）と Hyundai �
 
 ## 直近アップデート
 - 2026-05-11: NVIDIA が Hyundai・Kia との自律走行パートナーシップ拡大を発表。 ([出典](https://electriccarsreport.com/2026/03/nvidia-expands-autonomous-driving-partnership-with-hyundai-and-kia/))
+
+### 2026-05-13
+- 事実：Hyundai/Kia が2026年を好調に出発（2026年2月記事）。米国販売は4ヶ月連続減（関税影響後の市場再調整）
+- 出典：https://electrek.co/2026/02/03/hyundai-kia-kick-off-2026-with-a-bang/
+- 発表日：2026-02-03
+- 確度：中（industry_media）
