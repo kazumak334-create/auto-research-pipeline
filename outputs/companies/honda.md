@@ -210,3 +210,18 @@ Level 2：内製 vs 外部活用、GAS vs 単独アプリ（旧議事録の問�
 
 ## 直近アップデート
 - 2026-05-11: Honda 0 SUV/Saloon CES 2025発表（2025年記事）。ASIMO OS、Renesas SoC提携。北米2026H1投入計画（現在は戦略転換により中止）。 ([出典](https://hondanews.com/en-US/releases/honda-0-saloon-and-honda-0-suv-prototypes-make-global-debut-at-ces-honda-announces-new-asimo-operating-system))
+
+### 2026-05-13
+- 事実：Honda CEO Mibe が EV への過大投資による過去最悪の損失（推定▲2,700〜▲5,700億円）を受けてHEV強化策への戦略リブート中
+- 出典：https://www.autonews.com/honda/an-honda-ev-loss-earnings-restructuring-plan-toshihiro-mibe-0511/
+- 発表日：（2026-05-11）
+- 確度：中（industry_media）
+
+## Hondaへの示唆
+
+| 軸 | 示唆 |
+|----|-----|
+| **北米** | EV投資失敗・過去最悪損失が確定。HEV強化路線へのリブートが不可避。Tesla FSD・XPeng VLA 2.0等の自律走行競合の台頭を踏まえると、北米での差別化軸はHEV燃費性能＋信頼性に限定される局面 |
+| **中国** | Qwen（Alibaba）・DeepSeek・Doubao（ByteDance）等がOEMの車内AIプラットフォームを席巻。Momenta提携の継続検討が必要だが、競合のAIサービス密度との格差拡大リスクが顕在化 |
+| **ASEAN** | Chery（ベトナム工場2026年中頃開設、年産20万台）が本格攻勢。Honda の ASEAN 拠点と真正面からぶつかる。HEV路線の差別化訴求が重要 |
+| **技術/SDV** | Mercedes が「パワートレイン柔軟生産＋AI工場」で方向性を明確化。Ford が L3 民主化を2027年に宣言。Honda のASIMO OS 量産適用先が依然未確定のまま競合に引き離されるリスク |
