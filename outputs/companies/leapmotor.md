@@ -52,3 +52,9 @@ Leapmotor は中国OEM が西側資本（Stellantis）で海外展開する事�
 
 ## 直近アップデート
 - 2026-05-11: Stellantisとのパートナーシップ拡大、欧州EV製造推進。4月71,387台 (+73.9%) 過去最高。 ([出典](https://www.cbtnews.com/stellantis-leapmotor-expand-partnership/))
+
+### 2026-05-13
+- 事実：StellantisとLeapmotorがスペインで共同生産を決定。B10 SUVとOpelブランドの新型EV C-SUVをZaragoza工場で製造（EU関税回避）
+- 出典：https://www.detroitnews.com/story/business/autos/chrysler/2026/05/08/stellantis-leapmotor-deepen-ties-with-joint-ev-production-in-europe/89999473007/
+- 発表日：（2026-05-08）
+- 確度：中（industry_media）
