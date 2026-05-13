@@ -66,3 +66,9 @@
 
 ## 直近アップデート
 - 2026-05-11: Auto China 2026：Qwen が複数OEMの車内AI基盤として展開。Xiaomi/HIMA連携。 ([出典](https://www.marklines.com/en/report/rep3006_202604))
+
+### 2026-05-13
+- 事実：Qwen AI が BYD・Geely・Li Auto・Changan・Dongfeng等の車内システムに統合、NVIDIA車載チップ上で動作し音声で食事注文・ホテル予約等が可能に
+- 出典：https://www.cnbc.com/2026/04/24/alibaba-qwen-ai-integration-chinese-carmakers-beijing-auto-show.html
+- 発表日：2026-04-24
+- 確度：中（industry_media）
