@@ -146,3 +146,9 @@ Honda の P2-T（ASIMO OS + Gemini）から Tesla P1-E への到達距離は超�
 
 ## 直近アップデート
 - 2026-05-11: Tesla FSD 中国での2026年初完全承認をMusk示唆（2025年末時点記事）。 ([出典](https://cnevpost.com/2025/11/07/china-to-fully-approve-tesla-fsd-early-2026/))
+
+### 2026-05-13
+- 事実：Tesla Optimus V3 公開を今年中に延期。FremontでOptimus Q2生産開始（年産100万台ライン）、Texas Gigaでも10M台目標の第2世代ライン整備中
+- 出典：https://electrek.co/2026/04/22/tesla-optimus-production-fremont-model-sx-line/
+- 発表日：2026-04-23
+- 確度：中（industry_media）
