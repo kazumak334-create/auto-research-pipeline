@@ -147,3 +147,13 @@ SiC GaN power semiconductor EV cost {YYYY-MM}
 | 日付 | 更新内容 | 更新者 |
 |------|---------|--------|
 | 2026-05-11 | 初版作成。輸出規制・AI需要・中国自給化の3軸でPEST設計 | auto-agent |
+| 2026-05-13 | 最新動向追記 | auto-agent |
+
+## 最新動向
+
+### 2026-05-13
+- **[Political]** 米国の中国技術制限の執行に課題あり（Legis1報道）。制裁抜け穴問題が議会で論点化
+- **[Technology]** NVIDIA Blackwell が分散型エッジAI推論グリッドに展開（Zero Latency）。データセンター集中から分散エッジへの需要分散が進行
+- **[Technology]** AMD が Samsung 2nm プロセスとの提携交渉を「先進段階」と発表。TSMC の2nm ウェーハが2028年まで満杯のため代替確保が急務
+- **[Economic]** Micron YTD +68%。HBM需要爆発でQ1 FY2026売上 $13.64B（+57% YoY）、粗利56%。HBM4量産ロードマップが次の焦点
+- **[Technology]** TSMC 2nm 供給制約 → AMD/Tesla が Samsung Foundry（GAA 2nm）へ分散発注を検討。Samsung の歩留まり改善が鍵
