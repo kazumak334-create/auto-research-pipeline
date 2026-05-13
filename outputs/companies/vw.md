@@ -130,3 +130,9 @@ Honda P2-T（ASIMO OS 自前堅持）と VW P3→C hybrid（CARIAD 失速）の�
 
 ## 直近アップデート
 - 2026-05-11: CARIADの役割縮小を発表。RivianとXPengからソフトウェア調達へ転換。 ([出典](https://ev.com/news/volkswagen-scales-back-cariads-role-turns-to-rivian-and-xpeng-for-software-development))
+
+### 2026-05-13
+- 事実：VW-RivianのJVが自社EV/ソフトウェア技術を他社OEMへ売却することを検討
+- 出典：https://www.autonews.com/volkswagen/ane-vw-rivian-ev-technology-1114/
+- 発表日：（2025-11-14）
+- 確度：中（industry_media）
