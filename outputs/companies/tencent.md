@@ -67,3 +67,9 @@
 
 ## 直近アップデート
 - 2026-05-11: TAI車載AI展開継続。中国OEM向けWeChat Car統合。 ([出典](https://autonews.gasgoo.com/articles/ev/teslas-2026-mission-navigating-through-competition-with-chinese-automakers-2010712617306140673))
+
+### 2026-05-13
+- 事実：Neusoft Smart GoとTencent Cloudが提携、車載AIコックピット向けオンデバイスLLM・クラウドサービス・エコシステム統合を共同開発
+- 出典：https://www.just-auto.com/news/neusoft-smart-go-tencent-cloud-partner/
+- 発表日：2026-05-05
+- 確度：中（industry_media）
