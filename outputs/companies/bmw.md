@@ -115,3 +115,9 @@ Honda P2-T と BMW P3-T の差は Orch 内製度合い。BMW は IPA を残し�
 
 ## 直近アップデート
 - 2026-05-11: Neue Klasse Auto China 2026でお披露目。新世代EV/ソフトウェアプラットフォーム。 ([出典](https://electriccarsreport.com/2026/04/bmw-ix3-long-wheelbase-and-i3-long-wheelbase-unveiled-in-beijing/))
+
+### 2026-05-13
+- 事実：BMW CEO Zipse が iX3（Neue Klasse第1弾）を発表。ソフトウェア中心「Superbrain Architecture」で現行比20倍の演算能力。中国EV・Tesla対抗策
+- 出典：https://www.cnbc.com/2025/09/05/bmw-doubles-down-on-software-to-take-on-tesla-chinese-ev-rivals.html
+- 発表日：2025-09-05
+- 確度：中（industry_media）
