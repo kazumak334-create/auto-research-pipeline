@@ -47,3 +47,9 @@ Zeekr は NVIDIA DRIVE Thor を世界初 OEM 採用。Honda が Helm.ai/NVIDIA �
 
 ## 直近アップデート
 - 2026-05-11: ZEEKR 007 更新版：900Vシステム、強化ADAS、Q2発売。4月31,787台 (+131.6% YoY)、月次過去最高。 ([出典](https://electrek.co/2026/01/17/updated-zeekr-007-gets-900v-system-better-adas-q2-release-date/))
+
+### 2026-05-13
+- 事実：Zeekr 001 FR 次世代モデル（2,000馬力超）の噂。Geely 4分充電技術採用の可能性
+- 出典：https://autos.yahoo.com/ev-and-future-tech/articles/chinese-ev-brand-may-building-150000179.html
+- 発表日：2026-05-09
+- 確度：中（industry_media、ブログ情報）
