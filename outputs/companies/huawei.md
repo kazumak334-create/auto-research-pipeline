@@ -66,4 +66,10 @@
 
 
 ## 直近アップデート
+
+### 2026-05-13
+- 事実：HarmonyOS が10億台デバイスに搭載、DeepSeek LLM統合で中国AIエコシステムのOS層として急拡大
+- 出典：https://www.lawfaremedia.org/article/huawei-is-betting-on-the-future-with-harmonyos
+- 発表日：（記事日付未取得、2026年3月）
+- 確度：中（industry_media）
 - 2026-05-11: Aito M6 公式画像公開。HarmonyOS Cockpit 搭載の中型SUV。価格帯未公表。 ([出典](https://carnewschina.com/2026/02/03/huaweis-aito-m6-official-images-released-mid-size-suv-with-huawei-harmonyos-cockpit-5-and-ads-4/))
