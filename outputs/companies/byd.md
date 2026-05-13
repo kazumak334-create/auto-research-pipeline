@@ -131,3 +131,9 @@ Honda P2-T（ASIMO OS + Gemini）と BYD P3-E（Multi-Agent）の差は Multi-Ag
 
 ## 直近アップデート
 - 2026-05-11: 4月乗用EV31.4万台 (-15.7% YoY) 8ヶ月連続前年比減。輸出13.5万台 (+70%)は過去最高。競合激化。 ([出典](https://www.cnbc.com/2026/05/05/byd-april-sales-exports-china-ev-rivals-leapmotor-zeekr.html))
+
+### 2026-05-13
+- 事実：ハンガリー工場（年産30万台予定）での労働問題。China Labor Watchが7日連勤・12-14時間労働・ビザ違反等を告発
+- 出典：https://www.visiontimes.com/2026/04/26/chinese-ev-giant-byd-faces-forced-labor-allegations-across-brazil-and-hungary.html
+- 発表日：2026-04-26
+- 確度：中（industry_media）
