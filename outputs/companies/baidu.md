@@ -67,3 +67,9 @@
 
 ## 直近アップデート
 - 2026-05-11: Apollo 自律運転 2026グローバル戦略発表。Ji Yue拡大中。 ([出典](https://enkiai.com/ai-market-intelligence/baidu-autonomous-driving-2026-global-strategy-unveiled))
+
+### 2026-05-13
+- 事実：Baidu出資のDeepWay（自律運転重トラ）が香港IPO再申請。2025年売上39.6億元、99%が車両販売収益
+- 出典：https://eu.36kr.com/en/p/3806002286714882
+- 発表日：（2026-05-12）
+- 確度：中（industry_media）
