@@ -53,3 +53,6 @@ AITO は HIMA（Huawei Inside Mobility Alliance）参加で Huawei 完全依存�
 
 ## 直近アップデート
 - 2026-05-11: AITOがBMW・Mercedes-Benzと中国充電JVに対等パートナーとして参加。 ([出典](https://electrek.co/2026/04/22/seres-aito-joins-bmw-mercedes-ionchi-charging-jv-china/))
+
+### 2026-05-13
+- 事実：2026-05-13: 更新なし（本日取得JSONは空データ）
