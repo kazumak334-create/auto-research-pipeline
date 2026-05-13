@@ -55,3 +55,9 @@ Dongfeng は Honda の中国合弁パートナー（東風本田）。Dongfeng �
 
 ## 直近アップデート
 - 2026-05-11: Voyah Dream：PHEV 1,530km / EV 700km CLTC航続。 ([出典](https://paultan.org/2026/05/05/dongfeng-voyah-dream-auto-china-2026-beijing/))
+
+### 2026-05-13
+- 事実：Dongfeng Nissan（合弁）がNX8（ミドルサイズSUV）を中国発売。BEV/REEV両対応、800V+5C充電、価格159,900〜209,900元
+- 出典：https://global.nissannews.com/en/releases/dongfeng-nissan-launches-the-all-new-nx8-in-china
+- 発表日：2026-04-09
+- 確度：高（official_company）
