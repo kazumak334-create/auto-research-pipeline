@@ -52,3 +52,9 @@ NIO は3ブランド（NIO/Onvo/Firefly）+ NIO Phoneエコシステムで完全
 
 ## 直近アップデート
 - 2026-05-11: 5月連休で100万回バッテリー交換達成。4月販売29,356台 (+22.8% YoY)。OnvoとFireflyブランド含む。 ([出典](https://cnevpost.com/2026/05/07/nio-provides-1-million-battery-swaps-may-day-holiday/))
+
+### 2026-05-13
+- 事実：Onvo L60が青島市の検察機関に配備、NioBaaSモデルを政府フリートで実証。Onvo L80を5月15日に発売予定
+- 出典：https://eletric-vehicles.com/nio/onvo/onvo-l60-joins-qingdao-police-as-nio-inc-s-fleet-push-widens/
+- 発表日：2026-05-12
+- 確度：中（industry_media）
