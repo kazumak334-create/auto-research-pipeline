@@ -153,3 +153,9 @@ Honda の P2-T（ASIMO OS + Gemini）から Li Auto P1-E への到達距離は�
 
 ## 直近アップデート
 - 2026-05-11: 2026年目標55万台配達、REEV重視路線継続。4月34,085台 (+0.4%)。 ([出典](https://cnevpost.com/2026/01/21/li-auto-aims-550000-sales-2026-increased-focus-erevs/))
+
+### 2026-05-13
+- 事実：Li L9 Livis（旗艦SUV）5月15日正式発売。自社開発5nmチップM100×2搭載（2,560 TOPS）、LiDAR×4、559,800元
+- 出典：https://cnevpost.com/2026/04/24/li-auto-to-officially-launch-l9-livis-may-15/
+- 発表日：2026-04-24
+- 確度：中（industry_media）
