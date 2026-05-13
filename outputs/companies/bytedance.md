@@ -66,3 +66,9 @@
 
 ## 直近アップデート
 - 2026-05-11: Dongchedi / 車載AIで存在感継続。直接的な主要ニュースなし。 ([出典](https://carnewschina.com/2026/04/24/xiaomi-yu7-gt-to-debut-in-late-may-with-990-hp-and-300-km-h-top-speed/))
+
+### 2026-05-13
+- 事実：ByteDance、自動車製造参入を否定。Mercedes-Benz・Seresとスマートコックピット・AI開発で連携継続（Doubao AI）
+- 出典：https://technode.com/2026/01/08/bytedance-denies-entering-car-manufacturing-despite-automotive-tech-partnerships/
+- 発表日：2026-01-08
+- 確度：中（industry_media）
