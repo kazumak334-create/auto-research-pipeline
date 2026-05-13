@@ -52,3 +52,9 @@ SAIC は中国合弁の代表（GM/VW）+ IM Motors 自社EV の二段構造。H
 
 ## 直近アップデート
 - 2026-05-11: IM Motors LS8 EREV SUV発売、36,600ドルから、EV航続430km。 ([出典](https://carnewschina.com/2026/04/17/im-motors-launches-ls8-erev-suv-starting-from-36600-usd-430-km-ev-range-and-four-wheel-steer-by-wire/))
+
+### 2026-05-13
+- 事実：SAIC MG がMG 07セダンをティザー公開。ルーフ搭載LiDAR初採用（MG初）、価格帯15〜20万元、年内発売予定
+- 出典：https://cnevpost.com/2026/05/09/saic-mg-teases-mg-07-sedan/
+- 発表日：2026-05-09
+- 確度：中（industry_media）
