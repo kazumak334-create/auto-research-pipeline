@@ -53,3 +53,9 @@ Changan は中国で L3 国家初認証取得（Deepal SL03）= 中国規制環�
 
 ## 直近アップデート
 - 2026-05-11: AvatrとDeepalを統合。Avatr Q1販売 -41.6%不振。 ([出典](https://carnewschina.com/2026/04/21/changan-to-fuse-avatr-and-deepal-operations-as-avatr-q1-sales-plunge-41-6/))
+
+### 2026-05-13
+- 事実：ChanganがEU関税回避のためスペインに工場建設を検討。欧州展開の現地生産化戦略
+- 出典：https://www.autonews.com/manufacturing/automakers/ane-changan-europe-car-plant-spain-0419/
+- 発表日：（2026-04-19）
+- 確度：中（industry_media）
