@@ -115,3 +115,9 @@ Honda P2-T（ASIMO OS 自前 + Gemini 外部）と Renault P3-T（AAOS 外部 + 
 
 ## 直近アップデート
 - 2026-05-11: futuREady戦略：2030年までに36新モデル、先進EV技術。 ([出典](https://electriccarsreport.com/2026/03/renault-unveils-futuready-strategy-with-36-new-models-and-advanced-ev-technology-by-2030/))
+
+### 2026-05-13
+- 事実：Renault 4 E-Tech Electric「Plein Sud」（キャンバスルーフEV）を欧州で展開
+- 出典：https://www.whichev.net/2026/05/11/renault-4-e-tech-electric-plein-sud-brings-canvas-roof-charm-to-ev-era/
+- 発表日：2026-05-11
+- 確度：中（industry_media）
