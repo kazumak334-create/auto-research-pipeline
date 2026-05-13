@@ -136,3 +136,9 @@ Honda 0 Series 中止（2026.3.12）と Ford EV プログラム後退（2026 Q1,
 
 ## 直近アップデート
 - 2026-05-11: 最小EV（Puma Gen-E）の航続延長とハンズフリー高速道路走行機能追加。 ([出典](https://insideevs.com/news/789194/ford-puma-gen-e-2026-bigger-battery-bluecruise/))
+
+### 2026-05-13
+- 事実：Ford Doug Field CTO が「AI技術を大衆向けに民主化」とCESで宣言。BlueCruise 120万台搭載、2027年UEVプラットフォームにL3搭載予定
+- 出典：https://iot-automotive.news/fords-simple-vision-for-smart-tech-make-it-for-everyone/
+- 発表日：（2026年1月CES）
+- 確度：高（official_company相当）
