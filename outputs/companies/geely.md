@@ -50,3 +50,9 @@ Geely の「DeepSeek + Xingrui 自社 + Cerence xUI」三層 Multi-Agent は、H
 
 ## 直近アップデート
 - 2026-05-11: 4月販売23.5万台。Zeekr好調。 ([出典](https://autonews.gasgoo.com/articles/ev/geely-auto-april-sales-reach-235000-units-2052294977630134272))
+
+### 2026-05-13
+- 事実：Galaxy Light第2世代コンセプトと1,000馬力EVオフロードプラットフォーム発表。Galaxy NEV累計販売200万台（37ヶ月）
+- 出典：https://thedriven.io/2026/05/05/geely-unveils-electric-future-with-1000-horsepower-off-road-platform-ai-and-galaxy-concept/
+- 発表日：2026-05-05
+- 確度：中（industry_media）
