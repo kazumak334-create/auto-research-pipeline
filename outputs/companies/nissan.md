@@ -130,3 +130,9 @@ Honda P2-T（ASIMO OS + Gemini + Helm.ai）と Nissan P3-T（NissanConnect + Way
 
 ## 直近アップデート
 - 2026-05-11: Mobility Intelligence for Everyday (MIND) 長期ビジョン発表。ProPILOT継続展開。 ([出典](https://global.nissannews.com/en/releases/260414-vision))
+
+### 2026-05-13
+- 事実：Nissan Formula E チームがモナコ戦に臨む。Oliver Rowland 今季4〜5位入賞。Dongfeng Nissan NX8（BEV/REEV）を中国で発売
+- 出典：https://global.nissannews.com/en/releases/nissan-formula-e-team-aiming-to-build-momentum-on-monacos-streets
+- 発表日：2026-05-12
+- 確度：高（official_company）
