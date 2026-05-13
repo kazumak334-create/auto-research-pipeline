@@ -225,3 +225,9 @@ Arene のオープン設計（外部開発者が活用可能）は ASIMO OS の�
 
 ## 直近アップデート
 - 2026-05-11: RAV4 2026 新ソフトウェア：将来EV向けの新UIプラットフォームの示唆。 ([出典](https://insideevs.com/news/775729/2026-toyota-rav4-phev-arene-software-ev/))
+
+### 2026-05-13
+- 事実：Toyota/Lexus が EV ロードトリップを改善（充電ネットワーク連携）。米国販売は4ヶ月連続前年比減
+- 出典：https://electrek.co/2026/05/12/toyota-lexus-just-made-ev-road-trips-way-easier/
+- 発表日：2026-05-12
+- 確度：中（industry_media）
