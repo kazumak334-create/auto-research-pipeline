@@ -155,3 +155,9 @@ Honda の P2-T（ASIMO OS + Gemini）と Stellantis の P3-T は近似する見�
 
 ## 直近アップデート
 - 2026-05-11: LeapmotorとのOpel EV・スペイン工場移管でパートナーシップ深化。 ([出典](https://cnevpost.com/2026/05/08/stellantis-deepens-leapmotor-tie-up-opel-ev-spanish-plant-transfer/))
+
+### 2026-05-13
+- 事実：Stellantisがパートナーシップを軸にした復活策を推進。5月21日に新ビジネスプランを発表予定（CEO Filosa）
+- 出典：https://www.cbtnews.com/stellantis-bets-big-on-partnerships/
+- 発表日：2026-05-12
+- 確度：中（industry_media）
