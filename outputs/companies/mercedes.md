@@ -166,3 +166,9 @@ Honda の P2-T（ASIMO OS + Gemini 単一）から Mercedes P2-E（Multi-Agent +
 
 ## 直近アップデート
 - 2026-05-11: NVIDIA DRIVE AV が2026 Mercedes-Benz CLA の先進AI機能を搭載。 ([出典](https://blockchain.news/ainews/nvidia-drive-av-software-powers-advanced-ai-features-in-2026-mercedes-benz-cla))
+
+### 2026-05-13
+- 事実：新生産責任者 Schiebe が「パワートレイン柔軟生産」を継続方針として表明。AI活用で塗装工場エネルギー費20%削減実績、GLC電動版をBremen工場で生産開始
+- 出典：https://www.automotivemanufacturingsolutions.com/smart-factory/nbsp-nbspfor-me-powertrainflexible-production-isnbsp-nbspclearly-the-way-forward/2662521
+- 発表日：2026-05-12
+- 確度：中（industry_media）
