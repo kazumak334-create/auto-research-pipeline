@@ -50,3 +50,9 @@ Onvo は親 NIO の Shenji NX9031 自社チップを大衆価格帯（25-40万�
 
 ## 直近アップデート
 - 2026-05-11: NIO Onvo 2026 L90 SUV配達開始。 ([出典](https://cnevpost.com/2026/05/09/nio-onvo-starts-deliveries-2026-l90/))
+
+### 2026-05-13
+- 事実：Onvo L60が青島市検察機関に配備（警察フリート）。BaaS（バッテリー分離購入）を政府フリートで実証。L80を5月15日発売、L60改良版は5月末に先行予約開始
+- 出典：https://eletric-vehicles.com/nio/onvo/onvo-l60-joins-qingdao-police-as-nio-inc-s-fleet-push-widens/
+- 発表日：2026-05-12
+- 確度：中（industry_media）
