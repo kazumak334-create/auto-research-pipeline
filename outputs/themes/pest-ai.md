@@ -162,3 +162,14 @@ edge AI on-device inference smartphone {YYYY-MM}
 | 日付 | 更新内容 | 更新者 |
 |------|---------|--------|
 | 2026-05-11 | 初版作成。基盤モデル競争・AI規制・労働代替の3軸でPEST設計 | auto-agent |
+| 2026-05-13 | 最新動向追記 | auto-agent |
+
+## 最新動向
+
+### 2026-05-13
+- **[Political]** Trump-Xi 首脳会談（5/14-15北京）でAI安全保障が主要議題。「AIにおけるデコンフリクション・チャンネル」の設置を米国が検討
+- **[Political]** EU AI Act が金融サービス向けに適用開始。高リスクAI（信用スコアリング等）は人間監督・データガバナンスが義務化
+- **[Technology]** Perceptron Mk1（動画解析AI）が Anthropic/OpenAI/Google 比 80-90% 安価な価格で高性能を実現。物理AI推論分野の新競合
+- **[Technology]** Microsoft Azure 40% YoY成長 vs Google Cloud 28%。Copilot有償化で企業AI収益化でMSFTが先行
+- **[Social]** 米国人の50%がAIに懸念を示す（Pew調査）、G7平均33%。中国は「AIに置き換えられる恐怖が採用を加速」と逆方向
+- **[Technology]** DeepSeek 最新モデルが米国チップへの依存をさらに低減。中国AIモデルの性能差が「実質消滅」とStanford研究が報告
