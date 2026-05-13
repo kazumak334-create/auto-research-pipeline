@@ -53,3 +53,9 @@ Chery は中国輸出首位 1.34M 台で、中国OEM の海外展開リーダー
 
 ## 直近アップデート
 - 2026-05-11: 2026年中頃ベトナムに最大ASEANモデル工場開設予定。 ([出典](https://kr-asia.com/chinas-chery-to-open-its-largest-asean-car-factory-in-vietnam-in-mid-2026))
+
+### 2026-05-13
+- 事実：ベトナムにASEAN最大工場（投資額最大8億ドル、年産20万台）を2026年中頃開設。欧州でベストセラーのJaecoo J7 SHSも現地販売
+- 出典：https://asia.nikkei.com/business/automobiles/china-s-chery-to-open-its-largest-asean-auto-factory-in-vietnam-in-mid-2026
+- 発表日：（2025-12-24）
+- 確度：高（official_company相当、Nikkei Asia）
