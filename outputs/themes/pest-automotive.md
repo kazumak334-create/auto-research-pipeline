@@ -152,3 +152,15 @@ charging standard ASEAN GB/T CCS {YYYY-MM}
 | 日付 | 更新内容 | 更新者 |
 |------|---------|--------|
 | 2026-05-11 | 初版作成。PEST × CASE-Xフレーム統合。macro-industry.mdのHonda固有軸は別ファイルに保持 | auto-agent |
+| 2026-05-13 | 最新動向追記 | auto-agent |
+
+## 最新動向
+
+### 2026-05-13
+- **[Political]** EU CO2規制改正：2035年目標を100%→90%に緩和提案。低炭素スチールクレジット・燃料クレジット導入で追加排出720MtCO₂e（T&E推計）
+- **[Economic]** 米国4月自動車SAAR 16.1M（4ヶ月連続前年比減）。関税前倒し需要の反動鮮明
+- **[Economic]** 中国乗用車小売138.4万台（-21.5% YoY）。BEV+PHEV好調だがEV浸透加速でICE崩壊が主因
+- **[Social]** BYDブラジル・ハンガリー工場での強制労働疑惑が欧米メディアで拡大。カナダ自動車産業団体が中国OEM参入反対
+- **[Technology]** AlibabA Qwenが主要中国OEM（BYD/Geely/Li Auto等）の車内AIに統合。NVIDIA車載チップ上で音声マルチタスク実現
+- **[Technology]** XPeng VLA 2.0 が FSD並みの実力と評価。Stellantis-Leapmotor がスペインでEV共同生産開始へ
+- **[Technology]** Zeekr・Leapmotor・NioがASEAN/欧州/政府フリート向けに事業拡張を加速
