@@ -150,3 +150,9 @@ Honda の P2-T（ASIMO OS + Gemini）から Xiaomi P1-E への到達距離は大
 
 ## 直近アップデート
 - 2026-05-11: SU7 が48日で8万台受注、4月配送3万台超。YU7 GT 5月末デビュー（990hp、300km/h）。 ([出典](https://carnewschina.com/2026/05/06/xiaomi-su7-hits-80000-orders-in-48-days-april-deliveries-exceed-30000-units/))
+
+### 2026-05-13
+- 事実：Xiaomi EV 海外展開準備加速。副社長 Yu Liguo が海外事業準備グループ長に就任、2027年欧州市場投入が第1弾
+- 出典：https://cnevpost.com/2026/05/08/xiaomi-ev-accelerates-overseas-push-exec-appointments/
+- 発表日：2026-05-08
+- 確度：中（industry_media）
