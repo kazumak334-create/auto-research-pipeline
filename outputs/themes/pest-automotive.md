@@ -164,3 +164,10 @@ charging standard ASEAN GB/T CCS {YYYY-MM}
 - **[Technology]** AlibabA Qwenが主要中国OEM（BYD/Geely/Li Auto等）の車内AIに統合。NVIDIA車載チップ上で音声マルチタスク実現
 - **[Technology]** XPeng VLA 2.0 が FSD並みの実力と評価。Stellantis-Leapmotor がスペインでEV共同生産開始へ
 - **[Technology]** Zeekr・Leapmotor・NioがASEAN/欧州/政府フリート向けに事業拡張を加速
+
+### 2026-07-14 更新
+- **中国NEV市場（6月）**: BYD 22.3%（224,478台）、Geely 10.7%、Leapmotor 7.2%、Tesla 5位5.3%（52,920台）。H1合計: BYD 990,879台（21.1%）。日系・欧米OEMはTop10圏外に後退。[CPCA/CnEVPost]
+- **米国関税**: カナダ自動車業界、関税・コスト上昇が2026年H1を圧迫。6セクター全てで信頼感は回復傾向もタリフ懸念継続。[AutoNews Canada]
+- **EU CO2規制**: 2025年自動車パッケージで2035年目標を「100%削減」→「90%削減（残10%はe-fuel/低炭素鋼で代替可）」に軟化。PHEV/REXVが2035年以降も生存可能に。[EC 2025/12]
+- **全固体電池**: 固体電池の最大課題（界面抵抗）が突破との報告。EV・スマートフォン向け実用化への布石。[TechTimes 2026-07-12]
+- **BYD Dolphin G**: 欧州B-セグメント向け初グローバルモデル（PHEV、$25-30K、航続1,000km）。"グローバル戦略車"としてEVにとどまらないPHEV戦略を明示。
