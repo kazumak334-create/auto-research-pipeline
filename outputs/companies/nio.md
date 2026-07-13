@@ -58,3 +58,4 @@ NIO は3ブランド（NIO/Onvo/Firefly）+ NIO Phoneエコシステムで完全
 - 出典：https://eletric-vehicles.com/nio/onvo/onvo-l60-joins-qingdao-police-as-nio-inc-s-fleet-push-widens/
 - 発表日：2026-05-12
 - 確度：中（industry_media）
+- 2026-07-14: Goldman Sachs が買い推奨に格上げ（$7目標、+46%）。NIO新型ES8/ES9がプレミアムNEV39%シェア。2026年43%増販予測。[CNBC 2026-07-13] ([出典](https://www.cnbc.com/2026/07/13/nio-is-poised-to-bounce-back-goldman-sachs-says-to-buy-the-stock.html))
