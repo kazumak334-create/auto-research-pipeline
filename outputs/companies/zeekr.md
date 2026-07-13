@@ -53,3 +53,4 @@ Zeekr は NVIDIA DRIVE Thor を世界初 OEM 採用。Honda が Helm.ai/NVIDIA �
 - 出典：https://autos.yahoo.com/ev-and-future-tech/articles/chinese-ev-brand-may-building-150000179.html
 - 発表日：2026-05-09
 - 確度：中（industry_media、ブログ情報）
+- 2026-07-14: 更新なし（直近フェッチ内容なし）
