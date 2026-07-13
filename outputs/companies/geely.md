@@ -56,3 +56,4 @@ Geely の「DeepSeek + Xingrui 自社 + Cerence xUI」三層 Multi-Agent は、H
 - 出典：https://thedriven.io/2026/05/05/geely-unveils-electric-future-with-1000-horsepower-off-road-platform-ai-and-galaxy-concept/
 - 発表日：2026-05-05
 - 確度：中（industry_media）
+- 2026-07-14: 中国NEV市場でBYDに次ぐ2位（H1: 578,347台、12.3%シェア）。6月107,951台。[CPCA / CnEVPost 2026-07-10] ([出典](https://insideevs.com/features/797238/best-selling-car-geely-ex2/))
