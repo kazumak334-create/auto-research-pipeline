@@ -231,3 +231,4 @@ Arene のオープン設計（外部開発者が活用可能）は ASIMO OS の�
 - 出典：https://electrek.co/2026/05/12/toyota-lexus-just-made-ev-road-trips-way-easier/
 - 発表日：2026-05-12
 - 確度：中（industry_media）
+- 2026-07-14: 日系OEMのHEV利益軸とAI・SDV転換加速（HEV利益率優位を維持しながらEV移行）。[Digitimes 2026-07] ([出典](https://www.digitimes.com/news/a20260616PD233/automakers-toyota-honda-hev-nissan.html))
