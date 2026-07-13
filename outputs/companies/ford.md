@@ -142,3 +142,4 @@ Honda 0 Series 中止（2026.3.12）と Ford EV プログラム後退（2026 Q1,
 - 出典：https://iot-automotive.news/fords-simple-vision-for-smart-tech-make-it-for-everyone/
 - 発表日：（2026年1月CES）
 - 確度：高（official_company相当）
+- 2026-07-14: 車載AI（「vehicle brain」）統合報告。[WardsAuto 2026-07] ([出典](https://www.wardsauto.com/news/ford-unveils-in-house-built-compute-module-universal-EV-architecture-CES/809283/))
