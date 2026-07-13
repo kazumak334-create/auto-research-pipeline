@@ -58,3 +58,4 @@ SAIC は中国合弁の代表（GM/VW）+ IM Motors 自社EV の二段構造。H
 - 出典：https://cnevpost.com/2026/05/09/saic-mg-teases-mg-07-sedan/
 - 発表日：2026-05-09
 - 確度：中（industry_media）
+- 2026-07-14: 更新なし（直近フェッチ内容なし）
