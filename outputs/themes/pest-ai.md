@@ -173,3 +173,9 @@ edge AI on-device inference smartphone {YYYY-MM}
 - **[Technology]** Microsoft Azure 40% YoY成長 vs Google Cloud 28%。Copilot有償化で企業AI収益化でMSFTが先行
 - **[Social]** 米国人の50%がAIに懸念を示す（Pew調査）、G7平均33%。中国は「AIに置き換えられる恐怖が採用を加速」と逆方向
 - **[Technology]** DeepSeek 最新モデルが米国チップへの依存をさらに低減。中国AIモデルの性能差が「実質消滅」とStanford研究が報告
+
+### 2026-07-14 更新
+- **中国AI vs 米国**: OpenRouterで米国企業の中国AIモデル利用率が週次30%超（ピーク46%）。DeepSeek/Z.ai GLM 5.2が性能・コスト比でAnthropicの60〜90%安。Lindy（AI startup）がAnthropic→DeepSeekに100%移行し数百万ドルのコスト削減。[CNBC 2026-07-07]
+- **EU AI Act**: コンプライアンスと執行が焦点。グローバル規制の整合性リスク——企業が複数法域で異なる規律に対応必要。[Foley & Lardner 2026-07-08]
+- **Meta Compute**: Metaがクラウドビジネス参入——AI計算資源をAWS/Azure/GCPに対抗して販売。CEO Zuckerberg、2026年度capex $115〜135B。Llama OSS＋カスタムハードをセットで提供。[Bloomberg/Yahoo Finance 2026-07-01]
+- **DeepSeek V4**: DeepSeek V4-Pro/Flashをオープンソースでリリース（2026-04-24）。開発費<$6M。GLM 5.2はAnthropicのOpus 4.8に性能1%差で約1/5のコスト。
