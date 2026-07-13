@@ -136,3 +136,4 @@ Honda P2-T（ASIMO OS + Gemini + Helm.ai）と Nissan P3-T（NissanConnect + Way
 - 出典：https://global.nissannews.com/en/releases/nissan-formula-e-team-aiming-to-build-momentum-on-monacos-streets
 - 発表日：2026-05-12
 - 確度：高（official_company）
+- 2026-07-14: Chevy Bolt vs Nissan Leaf の$30,000 EV比較（Edmunds）——Nissan の競合ポジション再確認。[WSLS 2026-07-01] ([出典](https://www.wsls.com/business/2026/07/01/chevrolet-bolt-vs-nissan-leaf-an-edmunds-30000-ev-comparison/))
