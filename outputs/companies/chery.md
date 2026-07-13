@@ -59,3 +59,4 @@ Chery は中国輸出首位 1.34M 台で、中国OEM の海外展開リーダー
 - 出典：https://asia.nikkei.com/business/automobiles/china-s-chery-to-open-its-largest-asean-auto-factory-in-vietnam-in-mid-2026
 - 発表日：（2025-12-24）
 - 確度：高（official_company相当、Nikkei Asia）
+- 2026-07-14: 中国NEV9位（6月36,449台、3.6%シェア）。[CPCA 2026-07-10] ([出典](https://kr-asia.com/chinas-chery-to-open-its-largest-asean-car-factory-in-vietnam-in-mid-2026))
