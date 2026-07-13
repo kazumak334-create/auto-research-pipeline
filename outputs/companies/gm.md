@@ -140,3 +140,4 @@ Honda P2-T と GM P2→P3 hybrid は近似。GM は Cruise 撤退で「自前ADA
 - 出典：https://www.detroitnews.com/story/business/autos/general-motors/2026/05/11/gm-to-cut-some-tech-jobs-bloomberg-reports/90030498007/
 - 発表日：（2026-05-11）
 - 確度：中（industry_media）
+- 2026-07-14: Super Cruise 10億マイル達成、サブスクユーザー75万台（年内85万台超予測）。Google Gemini AIを400万台にOTAで追加。[InsideEVs 2026-04] ([出典](https://insideevs.com/news/794254/gm-super-cruise-1-billion-hands-free-miles-gemini/))
