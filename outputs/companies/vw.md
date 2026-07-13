@@ -136,3 +136,4 @@ Honda P2-T（ASIMO OS 自前堅持）と VW P3→C hybrid（CARIAD 失速）の�
 - 出典：https://www.autonews.com/volkswagen/ane-vw-rivian-ev-technology-1114/
 - 発表日：（2025-11-14）
 - 確度：中（industry_media）
+- 2026-07-14: VW CEO Oliver Blume、ボード刷新計画可決できず。Audi/Porscheモデルカット検討。[AutoNews 2026-07] ([出典](https://eletric-vehicles.com/rivian/volkswagen-forms-task-force-as-rivian-software-alliance-falls-short-report/))
