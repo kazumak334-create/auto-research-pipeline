@@ -121,3 +121,4 @@ Honda P2-T と BMW P3-T の差は Orch 内製度合い。BMW は IPA を残し�
 - 出典：https://www.cnbc.com/2025/09/05/bmw-doubles-down-on-software-to-take-on-tesla-chinese-ev-rivals.html
 - 発表日：2025-09-05
 - 確度：中（industry_media）
+- 2026-07-14: 米国販売増加もEVは苦戦。[InsideEVs 2026-07-12] ([出典](https://www.cnbc.com/2025/09/05/bmw-doubles-down-on-software-to-take-on-tesla-chinese-ev-rivals.html))
