@@ -152,3 +152,4 @@ Honda の P2-T（ASIMO OS + Gemini）から Tesla P1-E への到達距離は超�
 - 出典：https://electrek.co/2026/04/22/tesla-optimus-production-fremont-model-sx-line/
 - 発表日：2026-04-23
 - 確度：中（industry_media）
+- 2026-07-14: Tesla-SpaceX合併観測——FSDとOptimusの評価を「テーブルに残す」リスクとしてアナリスト指摘。[StockTwits 2026-07] ([出典](https://stocktwits.com/news-articles/markets/equity/tesla-spacex-merger-rumors-fsd-optimus-valuation-gordon-johnson-jefferies/cZKwbLRR7aP))
