@@ -58,3 +58,4 @@ Leapmotor は中国OEM が西側資本（Stellantis）で海外展開する事�
 - 出典：https://www.detroitnews.com/story/business/autos/chrysler/2026/05/08/stellantis-leapmotor-deepen-ties-with-joint-ev-production-in-europe/89999473007/
 - 発表日：（2026-05-08）
 - 確度：中（industry_media）
+- 2026-07-14: 中国NEV市場3位に急浮上（6月72,376台、7.2%シェア）。H1: 260,193台（10位→3位の大幅上昇）。[CPCA 2026-07-10] ([出典](https://insideevs.com/news/800900/leapmotor-mexico-sales-stellantis-chinese/))
