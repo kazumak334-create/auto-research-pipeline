@@ -59,3 +59,4 @@ XPeng VLA 2.0 が VW CEA アーキテクチャに採用される量産事例は�
 - 出典：https://electrek.co/2026/04/29/xpeng-vla-2-test-drive-tesla-not-alone-full-self-driving/
 - 発表日：2026-04-29
 - 確度：中（industry_media）
+- 2026-07-14: 欧州でTeslaに正面対抗宣言——Mona L03（コンパクトSUV）を香港・ミュンヘンで発表。自動運転技術を海外展開。[SCMP 2026-07-13] ([出典](https://www.scmp.com/business/china-evs/article/3360305/how-xpeng-will-take-tesla-chinese-carmakers-drive-overseas-ev-competition))
