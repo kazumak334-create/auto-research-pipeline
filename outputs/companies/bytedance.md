@@ -72,3 +72,4 @@
 - 出典：https://technode.com/2026/01/08/bytedance-denies-entering-car-manufacturing-despite-automotive-tech-partnerships/
 - 発表日：2026-01-08
 - 確度：中（industry_media）
+- 2026-07-14: 更新なし（直近フェッチ内容なし）
