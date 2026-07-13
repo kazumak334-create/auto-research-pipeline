@@ -135,3 +135,4 @@ Honda 段階2 量産前（ASIMO OS Orch [未特定]・Gemini API）と Hyundai �
 - 出典：https://electrek.co/2026/02/03/hyundai-kia-kick-off-2026-with-a-bang/
 - 発表日：2026-02-03
 - 確度：中（industry_media）
+- 2026-07-14: 更新なし（直近フェッチ内容なし）
