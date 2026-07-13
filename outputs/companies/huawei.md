@@ -73,3 +73,4 @@
 - 発表日：（記事日付未取得、2026年3月）
 - 確度：中（industry_media）
 - 2026-05-11: Aito M6 公式画像公開。HarmonyOS Cockpit 搭載の中型SUV。価格帯未公表。 ([出典](https://carnewschina.com/2026/02/03/huaweis-aito-m6-official-images-released-mid-size-suv-with-huawei-harmonyos-cockpit-5-and-ads-4/))
+- 2026-07-14: HarmonyOS 10億台突破、DeepSeek LLM統合。AI Agentエコシステムを車・PC・IoT全域に展開。[Lawfare 2026-03] ([出典](https://www.lawfaremedia.org/article/huawei-is-betting-on-the-future-with-harmonyos))
