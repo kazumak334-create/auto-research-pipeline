@@ -157,3 +157,8 @@ SiC GaN power semiconductor EV cost {YYYY-MM}
 - **[Technology]** AMD が Samsung 2nm プロセスとの提携交渉を「先進段階」と発表。TSMC の2nm ウェーハが2028年まで満杯のため代替確保が急務
 - **[Economic]** Micron YTD +68%。HBM需要爆発でQ1 FY2026売上 $13.64B（+57% YoY）、粗利56%。HBM4量産ロードマップが次の焦点
 - **[Technology]** TSMC 2nm 供給制約 → AMD/Tesla が Samsung Foundry（GAA 2nm）へ分散発注を検討。Samsung の歩留まり改善が鍵
+
+### 2026-07-14 更新
+- **半導体輸出規制**: 米国STRIDE法案（下院外交委）——米日蘭独韓台でCoCom 2.0型多国間輸出規制構築を法制化。SME（製造装置）を出発点に化学材料まで拡大。中国は多重露光で規制を迂回、2027年までに台湾超え見込み。[JustSecurity 2026-07-09]
+- **GPUショートage 2026**: H100 SXM5リードタイム36〜52週。CoWoS（TSMCパッケージング）が2027年中頃まで全量確保済み。MS/Google/Meta/Amazonが2025年に前払い確保、中小AI企業は排除。スポット価格崩落せず。[Spheron 2026-07]
+- **HBM**: SK Hynix（H100はHBM3、H200/BlackwellはHBM3e）が供給の大半。Samsung・Micronの追加供給は2026年末以降。
