@@ -225,3 +225,4 @@ Level 2：内製 vs 外部活用、GAS vs 単独アプリ（旧議事録の問�
 | **中国** | Qwen（Alibaba）・DeepSeek・Doubao（ByteDance）等がOEMの車内AIプラットフォームを席巻。Momenta提携の継続検討が必要だが、競合のAIサービス密度との格差拡大リスクが顕在化 |
 | **ASEAN** | Chery（ベトナム工場2026年中頃開設、年産20万台）が本格攻勢。Honda の ASEAN 拠点と真正面からぶつかる。HEV路線の差別化訴求が重要 |
 | **技術/SDV** | Mercedes が「パワートレイン柔軟生産＋AI工場」で方向性を明確化。Ford が L3 民主化を2027年に宣言。Honda のASIMO OS 量産適用先が依然未確定のまま競合に引き離されるリスク |
+- 2026-07-14: Honda E-Clutch（CB650R）——電子クラッチで身体障害者ライダーを含む乗車体験を刷新。$9,299、手動クラッチ不要のMT設計。[The Drive 2026-07-10] ([出典](https://www.thedrive.com/car-reviews/honda-e-clutch-review))
