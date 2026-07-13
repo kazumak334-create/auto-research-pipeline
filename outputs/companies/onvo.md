@@ -56,3 +56,4 @@ Onvo は親 NIO の Shenji NX9031 自社チップを大衆価格帯（25-40万�
 - 出典：https://eletric-vehicles.com/nio/onvo/onvo-l60-joins-qingdao-police-as-nio-inc-s-fleet-push-widens/
 - 発表日：2026-05-12
 - 確度：中（industry_media）
+- 2026-07-14: NIO Onvo 6月11,743台配送（NIO Inc合計40,597台、月次記録）。[CnEVPost 2026-07-10] ([出典](https://stocktwits.com/news-articles/markets/equity/nio-stock-hong-kong-deutsche-bank-warns-new-onvo-sales-fade/cZXr7SPRelK))
