@@ -156,3 +156,4 @@ Honda の P2-T（ASIMO OS + Gemini）から Xiaomi P1-E への到達距離は大
 - 出典：https://cnevpost.com/2026/05/08/xiaomi-ev-accelerates-overseas-push-exec-appointments/
 - 発表日：2026-05-08
 - 確度：中（industry_media）
+- 2026-07-14: Sky Nomad（第2シリーズ）正式発表——Kunlun架台の大型EREV SUV、200,000元〜。2026年H1配送185,055台（年間目標34%）。[CnEVPost 2026-07-09] ([出典](https://cnevpost.com/2026/07/09/xiaomi-ev-sky-nomad-new-series-offers-first-look-suv/))
