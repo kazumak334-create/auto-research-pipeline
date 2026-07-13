@@ -73,3 +73,4 @@
 - 出典：https://www.just-auto.com/news/neusoft-smart-go-tencent-cloud-partner/
 - 発表日：2026-05-05
 - 確度：中（industry_media）
+- 2026-07-14: 更新なし（直近フェッチ内容なし）
