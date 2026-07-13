@@ -137,3 +137,4 @@ Honda P2-T（ASIMO OS + Gemini）と BYD P3-E（Multi-Agent）の差は Multi-Ag
 - 出典：https://www.visiontimes.com/2026/04/26/chinese-ev-giant-byd-faces-forced-labor-allegations-across-brazil-and-hungary.html
 - 発表日：2026-04-26
 - 確度：中（industry_media）
+- 2026-07-14: Dolphin G PHEV（グローバル初モデル）発表——欧州Bセグメント向け、1.5L+195hp電動、総航続1,000km、$25-30K。[SupercarBlondie 2026-07-12] ([出典](https://supercarblondie.com/byd-dolphin-g-first-global-car-phev/))
