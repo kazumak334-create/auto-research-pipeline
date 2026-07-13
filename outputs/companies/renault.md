@@ -121,3 +121,4 @@ Honda P2-T（ASIMO OS 自前 + Gemini 外部）と Renault P3-T（AAOS 外部 + 
 - 出典：https://www.whichev.net/2026/05/11/renault-4-e-tech-electric-plein-sud-brings-canvas-roof-charm-to-ev-era/
 - 発表日：2026-05-11
 - 確度：中（industry_media）
+- 2026-07-14: 更新なし（直近フェッチ内容なし）
