@@ -59,3 +59,4 @@ Changan は中国で L3 国家初認証取得（Deepal SL03）= 中国規制環�
 - 出典：https://www.autonews.com/manufacturing/automakers/ane-changan-europe-car-plant-spain-0419/
 - 発表日：（2026-04-19）
 - 確度：中（industry_media）
+- 2026-07-14: 中国NEV市場4位（6月66,900台、6.6%シェア）。H1: 321,667台。[CPCA 2026-07-10] ([出典](https://www.autonews.com/car-concepts/ane-changan-nevo-q05-debut-0630/))
