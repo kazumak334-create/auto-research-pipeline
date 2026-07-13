@@ -159,3 +159,4 @@ Honda の P2-T（ASIMO OS + Gemini）から Li Auto P1-E への到達距離は�
 - 出典：https://cnevpost.com/2026/04/24/li-auto-to-officially-launch-l9-livis-may-15/
 - 発表日：2026-04-24
 - 確度：中（industry_media）
+- 2026-07-14: 2026年6月配送30,895台（-14.84% YoY）。2ヶ月連続前年比減。 ([出典](https://autonews.gasgoo.com/articles/news/li-xiang-ai-and-embodied-intelligence-are-not-a-diversion-for-li-auto-2065696772075405313))
