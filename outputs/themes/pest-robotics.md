@@ -170,3 +170,8 @@ collaborative robot cobot industrial AMR {YYYY-MM}
 - **[Technology]** 中国ヒューマノイドロボット（Unitree等）が「汎用AI追求より実用展開重視」で世界市場で競争力を発揮
 - **[Economic]** FANUC 産業用ロボット売上 -16.4%（欧州・米州・中国の自動車関連需要低迷）。一方CNC・ロボマシン部門は堅調
 - **[Technology]** 中国でロボット警察官15台を杭州でテスト運用。AI・ロボットの社会インフラ統合が急速に進展
+
+### 2026-07-14 更新
+- **Tesla Optimus**: AWE 2026（上海）で展示。量産開始は2026年末目標（Fremont Factory 100万台/年ライン）。Musk：「OptimusはVon Neumannマシンになれる最初のロボット」。[Teslarati 2026-03-12]
+- **産業ロボット / Nvidia**: Nvidia CEO「すべての製造業はロボティクス企業になる」。CNH工業は約400人削減（トラクター需要低迷）——農業用重機需要軟化が産業ロボット導入圧力に。[ManufacturingDive 2026-03]
+- **GM Super Cruise**: 10億マイル達成（750,000台）。サブスク40%更新率。Google Gemini AIをOTAで4M台に追加——OEMのAI組み込みSOTA。[InsideEVs]
