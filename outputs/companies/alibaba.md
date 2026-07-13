@@ -72,3 +72,4 @@
 - 出典：https://www.cnbc.com/2026/04/24/alibaba-qwen-ai-integration-chinese-carmakers-beijing-auto-show.html
 - 発表日：2026-04-24
 - 確度：中（industry_media）
+- 2026-07-14: 更新なし（直近フェッチ内容なし）
