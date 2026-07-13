@@ -265,3 +265,8 @@ CASE-X翻訳層を介してHonda競争ポジションへ変換する。
 - EU CO2規制改正案：2035年目標を100%→90%削減に緩和、2030年BEV比率が57%→47%に低下する試算（T&E分析）
 - Honda CEOが過去最悪損失を受けEV戦略リブートを発表。HEV回帰・インド/ASEAN重点へ
 - 中国OEMのスペイン現地生産が加速：Leapmotor（Stellantis JV）、Changan（単独）がEU関税回避策として欧州工場を検討・決定
+
+### 2026-07-14 更新
+- **中国NEV競争**: Leapmotor（Stellantis傘下）が6月7.2%（72,376台）で3位急浮上。Li Auto・Xiaomi EVが年間目標未達軌道（H1で34%のみ）。日系OEMは中国市場Top10から完全退出。
+- **Honda示唆**: Leapmotor（Stellantis傘下）の3位浮上はHondaのASEAN・欧州での競合圧力を示す。BYD Dolphin G（グローバル統一PHEVモデル）は中堅価格帯でHondaのCR-Vクラスと直接競合する可能性。
+- **日系OEMとHEV**: HEV利益率の優位性継続が短中期の収益基盤。ただしEV転換加速に向けたSDV投資（Arene OS等）が必要。
