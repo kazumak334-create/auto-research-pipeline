@@ -61,3 +61,4 @@ Dongfeng は Honda の中国合弁パートナー（東風本田）。Dongfeng �
 - 出典：https://global.nissannews.com/en/releases/dongfeng-nissan-launches-the-all-new-nx8-in-china
 - 発表日：2026-04-09
 - 確度：高（official_company）
+- 2026-07-14: Dongfeng Nammi 01（エントリーEV）の軌跡更新。 ([出典](https://carnewschina.com/2025/10/17/2026-dongfeng-nammi-01-ev-launches-2000-usd-cheaper-compact-hatchback-with-430-km-range/))
